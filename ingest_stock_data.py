@@ -36,4 +36,4 @@ for symbol in symbols:
 with open(file_name, 'w') as file:
     json.dump(all_data, file, indent=4)
 
-print(f"Stock data written to {file_name}")
+print(f"Stock data written to {file_name}!")

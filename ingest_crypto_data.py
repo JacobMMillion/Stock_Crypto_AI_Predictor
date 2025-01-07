@@ -42,3 +42,5 @@ except (ConnectionError, Timeout, TooManyRedirects) as e:
 # write json to file
 with open(file_name, 'w') as file:
     json.dump(data, file, indent=4)
+
+print(f"Crypto data written to {file_name}!")

@@ -1,39 +1,54 @@
 #!/bin/bash
 
-# This script has a loop that runs once every hour
-# The free API for Alpha Vantage is limited to 25 / day
-# We can keep crypto more up to date by pipelining and running crypto ingestion more frequently
+# This script automates the process of:
+# - Updating crypto data every 5 minutes from the CoinMarketCap API
+# - Updating stock data every hour from the Alpha Vantage API
+# It continuously runs in a loop, performing the following steps at regular intervals:
+# - Fetching current data (crypto every 5 minutes, stocks every hour)
+# - Cleaning and organizing the data
+# - Analyzing the data and potentially training models for predictions
+# - Sending email notifications based on the analysis
+#
+# The loop runs indefinitely, with sleep intervals to reduce CPU usage.
 
-MINUTES_TO_SLEEP=60
-sleep_delay=$((MINUTES_TO_SLEEP * 60))
+MINUTES_TO_SLEEP=5     # Crypto update interval (5 minutes)
+STOCK_UPDATE_INTERVAL=60   # Stock update interval (60 minutes)
+
+sleep_delay=$((MINUTES_TO_SLEEP * 60))  # Sleep for 5 minutes between each loop
+
+last_stock_update=$(date +%s)  # Track the last update time for stocks
 
 while true; do 
-    
-    echo "begining to update data..."
+    current_time=$(date +%s)
+    echo "Beginning to update data..."
 
-    # ingest current data from coinmarketcap api
+    # Update crypto data (every 5 minutes)
+    echo "Updating crypto data..."
+    # Ingest current data from CoinMarketCap API
     python3 ingest_crypto_data.py
+    # Clean the crypto data
+    python3 clean_crypto_data.py
 
-    # ingest historical and current stock data from Alpha Vantage api
-    python3 ingest_stock_data.py
+    # Check if it's time to update stocks (every 60 minutes)
+    if (( (current_time - last_stock_update) >= STOCK_UPDATE_INTERVAL * 60 )); then
+        echo "Updating stock data..."
+        # Ingest historical and current stock data from Alpha Vantage API
+        python3 ingest_stock_data.py
+        # Clean the stock data
+        python3 clean_stock_data.py
+        last_stock_update=$current_time  # Update the last stock update time
+    fi
 
-    # modify data to get the attributes we care about
-    # we have more to work with for the stock data, so we work with this closely first
-    python3 clean_all_data.py
+    # Analyze the data and make predictions (optional)
+    # python3 analyze_data.py   # Example of an AI-based analysis script (optional)
 
-    # analyze the data, use AI to make predictions in key moments, critical lines
-    # this could involve searching to see if there is news abt anything
-    # idea is to get and be informed
+    # Send an email based on analysis
+    # python3 send_email.py
 
-    # TRAIN A MODEL TO PREDICT THE STOCK WITH THE HIGHEST PROBABILITY OF GAINING IN THE NEXT TRADING DAY
-
-    # send an email, determine if should be sent
-    python3 send_email.py
-
-    # sleep for a specific duration to prevent high CPU usage
-    echo "pausing to save cpu usage"
+    # Sleep for 5 minutes before next iteration
+    echo "Pausing to save CPU usage"
     sleep $sleep_delay
-    echo "waking up from sleeping"
+    echo "Waking up from sleeping"
     echo ""
 
 done

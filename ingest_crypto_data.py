@@ -9,16 +9,14 @@ Ingest crypto data from Coin Market Cap: https://coinmarketcap.com/api/documenta
 Write to file: `crypto_data.json`
 """
 
-print("ingesting data...")
-
 # Load the environment variables
 load_dotenv()
 
 # Access the API key
-api_key = os.getenv('API_KEY')
+api_key = os.getenv('COINMARKET_API_KEY')
 
 # output file
-file_name = 'cypto_data.json'
+file_name = 'crypto_live_data.json'
 
 url = 'http://pro-api.coinmarketcap.com/v1/cryptocurrency/listings/latest'
 parameters = {
@@ -44,5 +42,3 @@ except (ConnectionError, Timeout, TooManyRedirects) as e:
 # write json to file
 with open(file_name, 'w') as file:
     json.dump(data, file, indent=4)
-
-print(f"crypto data written to {file_name}")

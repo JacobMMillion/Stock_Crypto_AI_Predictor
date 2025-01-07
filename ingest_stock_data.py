@@ -1,7 +1,7 @@
-import requests
-import json
-from dotenv import load_dotenv
 import os
+import json
+import requests
+from dotenv import load_dotenv
 
 """
 Ingest stock data from Alpha Vantage: https://www.alphavantage.co/documentation/
@@ -15,17 +15,25 @@ load_dotenv()
 api_key = os.getenv('ALPHA_VANTAGE_API_KEY')
 
 # output file
-file_name = 'stock_data.json'
+file_name = 'stock_historical_data.json'
 
-symbols = ['SPY']  # S&P 500 ETFs
+# Symbols for stock data
+symbols = ['SPY', 'BAR']  # S&P 500 ETF and GOLD
+
+# Create a dictionary to hold all data
+all_data = {}
 
 for symbol in symbols:
+
     url = f'https://www.alphavantage.co/query?function=TIME_SERIES_DAILY&symbol={symbol}&apikey={api_key}&outputsize=full'
     response = requests.get(url)
     data = response.json()
 
-    # write json to file
-    with open(file_name, 'w') as file:
-        json.dump(data, file, indent=4)
+    # Add the symbol data to the dictionary
+    all_data[symbol] = data
 
-print(f"stock data written to {file_name}")
+# Write the full dictionary to the JSON file
+with open(file_name, 'w') as file:
+    json.dump(all_data, file, indent=4)
+
+print(f"Stock data written to {file_name}")

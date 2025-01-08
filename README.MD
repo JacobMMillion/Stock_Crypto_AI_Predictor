@@ -27,9 +27,14 @@ The first row of each of the cleaned data is dropped in the new files, as it can
 This labeled data will then be used for training in the next step. The label is `1` if the price of
 the stock or cryptocurrency rose the following day, and `0` otherwise.
 
-### 4) Train Model
-Trains a machine learning model using the cleaned and labeled data. The data is split into training
-and testing set and the `sklearn` random forest library is used.
+### 4) Train Model  
+The model is trained using the cleaned and labeled data, with the dataset split into training and testing sets. A **Random Forest Classifier** from `sklearn` is used to predict price movement. 
 
-### 5) Test and Make Predictions
-The program can then be used by using the trained model to make predictions on whether the next day will see a price increase.
+The model is initially defined with general hyperparameters, and then optimized using **GridSearchCV** to find the best combination of parameters like the number of trees, tree depth, and minimum samples for splitting. The training set is used to fit the model, with features such as price, market cap, and volume, and the target label indicating price movement (increase or decrease).
+
+### 5) Test and Make Predictions  
+Once trained, the model is evaluated on the test set using performance metrics like **precision**, **accuracy**, **recall**, and **F1-score**. These metrics provide insights into the model's ability to predict price movement. After evaluation, the model can be used to predict whether the price will increase the following day, based on current market features.
+
+Once the model is trained, it is used to make predictions on the test set. Model performance is evaluated using metrics such as **accuracy**, **precision**, **recall**, and **F1-score**. These metrics provide insight into how well the model predicts the next day's price movement.
+
+After evaluating the model, it can be used to predict whether the price of a cryptocurrency will increase the next day by feeding the model new features for the current day.

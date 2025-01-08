@@ -1,26 +1,50 @@
 from sklearn.ensemble import RandomForestClassifier
 from sklearn.metrics import precision_score, accuracy_score, recall_score, f1_score, confusion_matrix
+from sklearn.model_selection import GridSearchCV, TimeSeriesSplit
 import pandas as pd
-
-# Initialize the model
-model = RandomForestClassifier(n_estimators=200, min_samples_split=100, random_state=1)
 
 # Load data
 df = pd.read_csv('labeled_stock_data.csv')
 
-# Train-test split
+# Train-test split (same as your original code)
 train = df.iloc[:-400]  # Train on all data except the last 400
 test = df.iloc[-400:]   # Test on the last 400 rows
 
 # Define the predictors
 predictors = ["open", "high", "low", "close", "volume"]
 
-# Fit the model
-model.fit(train[predictors], train["label"])
+# Initialize the model, `balanced` gives higher priority to underrepresented class
+model = RandomForestClassifier(random_state=1, class_weight='balanced')
+
+# Parameter grid for GridSearchCV
+param_grid = {
+    'n_estimators': [100, 200, 300],
+    'max_depth': [10, 20, 30, None],
+    'min_samples_split': [2, 5, 10, 100],
+}
+
+# Create TimeSeriesSplit object
+tscv = TimeSeriesSplit(n_splits=5)
+
+# Initialize GridSearchCV with TimeSeriesSplit
+grid_search = GridSearchCV(estimator=model, param_grid=param_grid, cv=tscv, n_jobs=-1, verbose=1)
+
+# Fit grid search to the training data
+grid_search.fit(train[predictors], train['label'])
+
+# Print best parameters from grid search
+print(f"Best parameters found: {grid_search.best_params_}")
+
+# Now use the best parameters found in the grid search to fit the final model
+best_model = grid_search.best_estimator_
+
+# Fit the model using the best found parameters
+best_model.fit(train[predictors], train['label'])
 
 # Predict on the test set
-predictions = model.predict(test[predictors])
+predictions = best_model.predict(test[predictors])
 
+# Print model statistics
 print("------------------------")
 print("STOCK MODEL STATS")
 print("Predictions:")
@@ -51,6 +75,7 @@ false_negatives = ((predictions == 0) & (test['label'] == 1)).sum()
 print(f"False Negatives (Predicted 0 and Actual 1): {false_negatives}")
 print("------------------------")
 
+# Predict the label for the next day using the trained model
 df = pd.read_csv('cleaned_stock_data.csv')
 next_day_data = df.iloc[0]
 date = next_day_data["date"]
@@ -65,7 +90,7 @@ print(f"Running model on the current day ({date}):")
 print(next_day_features)
 
 # Predict the label for the next day
-next_day_label = model.predict(next_day_features)
+next_day_label = best_model.predict(next_day_features)
 
 # Print the predicted label for the next day
 print(f"Predicted Label for {date}: {next_day_label[0]}")

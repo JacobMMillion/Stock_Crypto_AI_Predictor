@@ -50,3 +50,23 @@ print(f"False Positives (Predicted 1 and Actual 0): {false_positives}")
 false_negatives = ((predictions == 0) & (test['label'] == 1)).sum()
 print(f"False Negatives (Predicted 0 and Actual 1): {false_negatives}")
 print("------------------------")
+
+df = pd.read_csv('cleaned_crypto_data.csv')
+next_day_data = df.iloc[0]
+date = next_day_data["date"]
+
+# Prepare the features for prediction (same as predictors)
+next_day_features = pd.DataFrame(
+    next_day_data[predictors].values.reshape(1, -1),
+    columns=predictors
+)
+
+print(f"Running model on the current day ({date}):")
+print(next_day_features)
+
+# Predict the label for the next day
+next_day_label = model.predict(next_day_features)
+
+# Print the predicted label for the next day
+print(f"Predicted Label for {date}: {next_day_label[0]}")
+print("------------------------")

@@ -28,7 +28,8 @@ This labeled data will then be used for training in the next step. The label is 
 the stock or cryptocurrency rose the following day, and `0` otherwise.
 
 ### 4) Train Model
-**TODO:** Train a machine learning model using the cleaned and labeled data.
+Trains a machine learning model using the cleaned and labeled data. The data is split into training
+and testing set and the `sklearn` random forest library is used.
 
 ### 5) Test and Make Predictions
-**TODO:** Test the trained model and make predictions on whether the next day will see a price increase.
+The program can then be used by using the trained model to make predictions on whether the next day will see a price increase.

@@ -10,11 +10,9 @@
 # python3 label_crypto_data.py
 # python3 label_stock_data.py
 
-# train model
+# display data for testing
+python3 display_data.py
+
+# train model and predict price for next day
 python3 train_crypto_model.py
 python3 train_stock_model.py
-
-# display data for testing
-# python3 display_data.py
-
-# test and make predictions

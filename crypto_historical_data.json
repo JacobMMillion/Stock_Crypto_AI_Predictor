@@ -1,0 +1,2922 @@
+[
+    {
+        "symbol": "btc",
+        "name": "Bitcoin",
+        "date": "07-01-2025",
+        "current_price": 102229.39453189743,
+        "market_cap": 2024825178619.8228,
+        "total_volume": 46111387334.46171
+    },
+    {
+        "symbol": "btc",
+        "name": "Bitcoin",
+        "date": "06-01-2025",
+        "current_price": 98364.58946599838,
+        "market_cap": 1948339898718.8586,
+        "total_volume": 20060293834.7155
+    },
+    {
+        "symbol": "btc",
+        "name": "Bitcoin",
+        "date": "05-01-2025",
+        "current_price": 98256.73876849933,
+        "market_cap": 1946611205641.351,
+        "total_volume": 20979035420.980793
+    },
+    {
+        "symbol": "btc",
+        "name": "Bitcoin",
+        "date": "04-01-2025",
+        "current_price": 98084.34279280754,
+        "market_cap": 1942834829349.9563,
+        "total_volume": 35721645948.10051
+    },
+    {
+        "symbol": "btc",
+        "name": "Bitcoin",
+        "date": "03-01-2025",
+        "current_price": 96852.14681235075,
+        "market_cap": 1917905016063.62,
+        "total_volume": 45157338602.617516
+    },
+    {
+        "symbol": "btc",
+        "name": "Bitcoin",
+        "date": "02-01-2025",
+        "current_price": 94384.1761153871,
+        "market_cap": 1869193319140.2422,
+        "total_volume": 23275007789.496334
+    },
+    {
+        "symbol": "btc",
+        "name": "Bitcoin",
+        "date": "01-01-2025",
+        "current_price": 93507.85874741491,
+        "market_cap": 1851839954625.13,
+        "total_volume": 45327464907.74362
+    },
+    {
+        "symbol": "btc",
+        "name": "Bitcoin",
+        "date": "31-12-2024",
+        "current_price": 92627.28213113277,
+        "market_cap": 1833188187477.531,
+        "total_volume": 57595164139.4709
+    },
+    {
+        "symbol": "btc",
+        "name": "Bitcoin",
+        "date": "30-12-2024",
+        "current_price": 93663.44751964067,
+        "market_cap": 1854872605738.8086,
+        "total_volume": 24065314499.502274
+    },
+    {
+        "symbol": "btc",
+        "name": "Bitcoin",
+        "date": "29-12-2024",
+        "current_price": 95184.61945288602,
+        "market_cap": 1885556552231.4314,
+        "total_volume": 22429850903.940086
+    },
+    {
+        "symbol": "btc",
+        "name": "Bitcoin",
+        "date": "28-12-2024",
+        "current_price": 94331.94727053077,
+        "market_cap": 1867708753554.924,
+        "total_volume": 41498540807.666954
+    },
+    {
+        "symbol": "btc",
+        "name": "Bitcoin",
+        "date": "27-12-2024",
+        "current_price": 95678.31244565405,
+        "market_cap": 1894744251986.1084,
+        "total_volume": 45049342388.18843
+    },
+    {
+        "symbol": "btc",
+        "name": "Bitcoin",
+        "date": "26-12-2024",
+        "current_price": 99344.95417367229,
+        "market_cap": 1966481159354.1177,
+        "total_volume": 33963749856.44743
+    },
+    {
+        "symbol": "btc",
+        "name": "Bitcoin",
+        "date": "25-12-2024",
+        "current_price": 98695.71400782601,
+        "market_cap": 1951173788529.116,
+        "total_volume": 49169088282.15742
+    },
+    {
+        "symbol": "btc",
+        "name": "Bitcoin",
+        "date": "24-12-2024",
+        "current_price": 94644.91085464321,
+        "market_cap": 1874912975786.6604,
+        "total_volume": 64937790292.61125
+    },
+    {
+        "symbol": "btc",
+        "name": "Bitcoin",
+        "date": "23-12-2024",
+        "current_price": 95094.27394862173,
+        "market_cap": 1884599149192.4587,
+        "total_volume": 44619017105.36954
+    },
+    {
+        "symbol": "btc",
+        "name": "Bitcoin",
+        "date": "22-12-2024",
+        "current_price": 97202.82496847633,
+        "market_cap": 1922768195068.165,
+        "total_volume": 53058382639.48845
+    },
+    {
+        "symbol": "btc",
+        "name": "Bitcoin",
+        "date": "21-12-2024",
+        "current_price": 97691.43431692653,
+        "market_cap": 1932373308116.0107,
+        "total_volume": 112340864006.62827
+    },
+    {
+        "symbol": "btc",
+        "name": "Bitcoin",
+        "date": "20-12-2024",
+        "current_price": 97851.35377075805,
+        "market_cap": 1937022229972.2085,
+        "total_volume": 100611554887.24123
+    },
+    {
+        "symbol": "btc",
+        "name": "Bitcoin",
+        "date": "19-12-2024",
+        "current_price": 100355.5761481501,
+        "market_cap": 1985284833093.572,
+        "total_volume": 113692025885.44745
+    },
+    {
+        "symbol": "btc",
+        "name": "Bitcoin",
+        "date": "18-12-2024",
+        "current_price": 106034.913402645,
+        "market_cap": 2100629850064.9119,
+        "total_volume": 93417826250.1972
+    },
+    {
+        "symbol": "btc",
+        "name": "Bitcoin",
+        "date": "17-12-2024",
+        "current_price": 106074.10723541168,
+        "market_cap": 2097460193710.789,
+        "total_volume": 115184737759.33566
+    },
+    {
+        "symbol": "btc",
+        "name": "Bitcoin",
+        "date": "16-12-2024",
+        "current_price": 104721.50151808978,
+        "market_cap": 2075487816560.1924,
+        "total_volume": 70645074624.52869
+    },
+    {
+        "symbol": "btc",
+        "name": "Bitcoin",
+        "date": "15-12-2024",
+        "current_price": 101367.01064553364,
+        "market_cap": 2007646386698.8667,
+        "total_volume": 57321924844.41535
+    },
+    {
+        "symbol": "btc",
+        "name": "Bitcoin",
+        "date": "14-12-2024",
+        "current_price": 101352.22971292294,
+        "market_cap": 2005406021235.8357,
+        "total_volume": 78802903278.85962
+    },
+    {
+        "symbol": "btc",
+        "name": "Bitcoin",
+        "date": "13-12-2024",
+        "current_price": 100000.80836535197,
+        "market_cap": 1979166149963.3093,
+        "total_volume": 100092043319.81221
+    },
+    {
+        "symbol": "btc",
+        "name": "Bitcoin",
+        "date": "12-12-2024",
+        "current_price": 101123.61811033697,
+        "market_cap": 2001746436338.842,
+        "total_volume": 118484957960.76833
+    },
+    {
+        "symbol": "btc",
+        "name": "Bitcoin",
+        "date": "11-12-2024",
+        "current_price": 96649.71446771531,
+        "market_cap": 1913115778728.2837,
+        "total_volume": 125835977742.51114
+    },
+    {
+        "symbol": "btc",
+        "name": "Bitcoin",
+        "date": "10-12-2024",
+        "current_price": 97353.94700820887,
+        "market_cap": 1926047690157.6282,
+        "total_volume": 146846843211.51685
+    },
+    {
+        "symbol": "btc",
+        "name": "Bitcoin",
+        "date": "09-12-2024",
+        "current_price": 101235.3717025316,
+        "market_cap": 2003238967638.8286,
+        "total_volume": 62677764785.05408
+    },
+    {
+        "symbol": "btc",
+        "name": "Bitcoin",
+        "date": "08-12-2024",
+        "current_price": 99781.82999198174,
+        "market_cap": 1974739091620.7542,
+        "total_volume": 61061136199.7846
+    },
+    {
+        "symbol": "btc",
+        "name": "Bitcoin",
+        "date": "07-12-2024",
+        "current_price": 99973.85150659826,
+        "market_cap": 1978389972043.7947,
+        "total_volume": 115812632020.44765
+    },
+    {
+        "symbol": "btc",
+        "name": "Bitcoin",
+        "date": "06-12-2024",
+        "current_price": 97201.50036407741,
+        "market_cap": 1920742551503.6094,
+        "total_volume": 190460293531.53802
+    },
+    {
+        "symbol": "btc",
+        "name": "Bitcoin",
+        "date": "05-12-2024",
+        "current_price": 98881.4694561823,
+        "market_cap": 1957276192604.2603,
+        "total_volume": 98230784298.0459
+    },
+    {
+        "symbol": "btc",
+        "name": "Bitcoin",
+        "date": "04-12-2024",
+        "current_price": 96031.63097759831,
+        "market_cap": 1900922167493.3643,
+        "total_volume": 87935752287.975
+    },
+    {
+        "symbol": "btc",
+        "name": "Bitcoin",
+        "date": "03-12-2024",
+        "current_price": 95833.1362300365,
+        "market_cap": 1896576914275.523,
+        "total_volume": 101019861361.49252
+    },
+    {
+        "symbol": "btc",
+        "name": "Bitcoin",
+        "date": "02-12-2024",
+        "current_price": 97311.70719084324,
+        "market_cap": 1925808416477.5068,
+        "total_volume": 49147687432.565895
+    },
+    {
+        "symbol": "btc",
+        "name": "Bitcoin",
+        "date": "01-12-2024",
+        "current_price": 96513.14234698225,
+        "market_cap": 1910022814269.8855,
+        "total_volume": 43580019720.720634
+    },
+    {
+        "symbol": "btc",
+        "name": "Bitcoin",
+        "date": "30-11-2024",
+        "current_price": 97453.2473451042,
+        "market_cap": 1926826079390.2441,
+        "total_volume": 74670031635.5065
+    },
+    {
+        "symbol": "btc",
+        "name": "Bitcoin",
+        "date": "29-11-2024",
+        "current_price": 95661.59595817851,
+        "market_cap": 1892297852304.72,
+        "total_volume": 49067932024.40325
+    },
+    {
+        "symbol": "btc",
+        "name": "Bitcoin",
+        "date": "28-11-2024",
+        "current_price": 95981.18057210564,
+        "market_cap": 1899088665519.225,
+        "total_volume": 81469353259.75
+    },
+    {
+        "symbol": "btc",
+        "name": "Bitcoin",
+        "date": "27-11-2024",
+        "current_price": 91931.83077291827,
+        "market_cap": 1819990514406.0881,
+        "total_volume": 97389239315.52954
+    },
+    {
+        "symbol": "btc",
+        "name": "Bitcoin",
+        "date": "26-11-2024",
+        "current_price": 93004.70093103287,
+        "market_cap": 1838788677873.8657,
+        "total_volume": 89476321216.0935
+    },
+    {
+        "symbol": "btc",
+        "name": "Bitcoin",
+        "date": "25-11-2024",
+        "current_price": 98015.9355289458,
+        "market_cap": 1939446484727.4285,
+        "total_volume": 50665680246.86775
+    },
+    {
+        "symbol": "btc",
+        "name": "Bitcoin",
+        "date": "24-11-2024",
+        "current_price": 97679.46381643033,
+        "market_cap": 1931255637661.502,
+        "total_volume": 47414200206.70341
+    },
+    {
+        "symbol": "btc",
+        "name": "Bitcoin",
+        "date": "23-11-2024",
+        "current_price": 98927.49494553401,
+        "market_cap": 1958091000957.8345,
+        "total_volume": 85746174563.98602
+    },
+    {
+        "symbol": "btc",
+        "name": "Bitcoin",
+        "date": "22-11-2024",
+        "current_price": 98509.11859102432,
+        "market_cap": 1948284556982.0486,
+        "total_volume": 118163852022.3175
+    },
+    {
+        "symbol": "btc",
+        "name": "Bitcoin",
+        "date": "21-11-2024",
+        "current_price": 94217.02229634205,
+        "market_cap": 1862618759426.145,
+        "total_volume": 80747272080.24826
+    },
+    {
+        "symbol": "btc",
+        "name": "Bitcoin",
+        "date": "20-11-2024",
+        "current_price": 92251.65240738312,
+        "market_cap": 1825195454018.501,
+        "total_volume": 80493234958.49161
+    },
+    {
+        "symbol": "btc",
+        "name": "Bitcoin",
+        "date": "19-11-2024",
+        "current_price": 90534.62459650292,
+        "market_cap": 1790917617392.4407,
+        "total_volume": 77391724184.19348
+    },
+    {
+        "symbol": "btc",
+        "name": "Bitcoin",
+        "date": "18-11-2024",
+        "current_price": 89841.47194135105,
+        "market_cap": 1776887033229.9082,
+        "total_volume": 48556083101.64749
+    },
+    {
+        "symbol": "btc",
+        "name": "Bitcoin",
+        "date": "17-11-2024",
+        "current_price": 90606.45489380708,
+        "market_cap": 1790415769635.4927,
+        "total_volume": 49255174407.368774
+    },
+    {
+        "symbol": "btc",
+        "name": "Bitcoin",
+        "date": "16-11-2024",
+        "current_price": 90947.97509443703,
+        "market_cap": 1799276211921.9302,
+        "total_volume": 84382485697.84985
+    },
+    {
+        "symbol": "btc",
+        "name": "Bitcoin",
+        "date": "15-11-2024",
+        "current_price": 87407.51273710128,
+        "market_cap": 1726797438787.217,
+        "total_volume": 99649391847.08359
+    },
+    {
+        "symbol": "btc",
+        "name": "Bitcoin",
+        "date": "14-11-2024",
+        "current_price": 90488.10007497849,
+        "market_cap": 1790737763695.3328,
+        "total_volume": 136046309843.60645
+    },
+    {
+        "symbol": "btc",
+        "name": "Bitcoin",
+        "date": "13-11-2024",
+        "current_price": 88264.59974582895,
+        "market_cap": 1741113172482.1243,
+        "total_volume": 152356811694.44943
+    },
+    {
+        "symbol": "btc",
+        "name": "Bitcoin",
+        "date": "12-11-2024",
+        "current_price": 88637.42000322911,
+        "market_cap": 1756619702929.0437,
+        "total_volume": 133959805308.72511
+    },
+    {
+        "symbol": "btc",
+        "name": "Bitcoin",
+        "date": "11-11-2024",
+        "current_price": 80466.71654833542,
+        "market_cap": 1590846468754.067,
+        "total_volume": 93473126207.67865
+    },
+    {
+        "symbol": "btc",
+        "name": "Bitcoin",
+        "date": "10-11-2024",
+        "current_price": 76630.22631415377,
+        "market_cap": 1519470275068.1016,
+        "total_volume": 31430906055.796104
+    },
+    {
+        "symbol": "btc",
+        "name": "Bitcoin",
+        "date": "09-11-2024",
+        "current_price": 76550.0213845611,
+        "market_cap": 1514048743889.1255,
+        "total_volume": 50687468387.720375
+    },
+    {
+        "symbol": "btc",
+        "name": "Bitcoin",
+        "date": "08-11-2024",
+        "current_price": 75987.24178320667,
+        "market_cap": 1502620808927.6982,
+        "total_volume": 66590396087.4524
+    },
+    {
+        "symbol": "btc",
+        "name": "Bitcoin",
+        "date": "07-11-2024",
+        "current_price": 75620.88606963192,
+        "market_cap": 1496392703840.9058,
+        "total_volume": 128492534668.23851
+    },
+    {
+        "symbol": "btc",
+        "name": "Bitcoin",
+        "date": "06-11-2024",
+        "current_price": 69335.42553133758,
+        "market_cap": 1370963795352.6948,
+        "total_volume": 40025021601.49395
+    },
+    {
+        "symbol": "btc",
+        "name": "Bitcoin",
+        "date": "05-11-2024",
+        "current_price": 67793.29782704762,
+        "market_cap": 1340192510479.9568,
+        "total_volume": 46183110993.79166
+    },
+    {
+        "symbol": "btc",
+        "name": "Bitcoin",
+        "date": "04-11-2024",
+        "current_price": 68803.50626277467,
+        "market_cap": 1362302032218.0198,
+        "total_volume": 37659435506.757034
+    },
+    {
+        "symbol": "btc",
+        "name": "Bitcoin",
+        "date": "03-11-2024",
+        "current_price": 69299.16036699413,
+        "market_cap": 1370516856365.7996,
+        "total_volume": 14709379754.965973
+    },
+    {
+        "symbol": "btc",
+        "name": "Bitcoin",
+        "date": "02-11-2024",
+        "current_price": 69507.92256395647,
+        "market_cap": 1374687306836.925,
+        "total_volume": 54863092261.31101
+    },
+    {
+        "symbol": "btc",
+        "name": "Bitcoin",
+        "date": "01-11-2024",
+        "current_price": 70264.99735573279,
+        "market_cap": 1390195908292.9321,
+        "total_volume": 45907074188.570145
+    },
+    {
+        "symbol": "btc",
+        "name": "Bitcoin",
+        "date": "31-10-2024",
+        "current_price": 72342.62171127986,
+        "market_cap": 1431085552900.1965,
+        "total_volume": 43498144313.67304
+    },
+    {
+        "symbol": "btc",
+        "name": "Bitcoin",
+        "date": "30-10-2024",
+        "current_price": 72781.11308158132,
+        "market_cap": 1439310420089.3665,
+        "total_volume": 65487782004.97014
+    },
+    {
+        "symbol": "btc",
+        "name": "Bitcoin",
+        "date": "29-10-2024",
+        "current_price": 69845.304531169,
+        "market_cap": 1380874923096.4146,
+        "total_volume": 41990540384.96554
+    },
+    {
+        "symbol": "btc",
+        "name": "Bitcoin",
+        "date": "28-10-2024",
+        "current_price": 67938.55412885673,
+        "market_cap": 1343350549900.1233,
+        "total_volume": 16533385730.434193
+    },
+    {
+        "symbol": "btc",
+        "name": "Bitcoin",
+        "date": "27-10-2024",
+        "current_price": 67018.1650170265,
+        "market_cap": 1325192118637.2595,
+        "total_volume": 21169467789.89267
+    },
+    {
+        "symbol": "btc",
+        "name": "Bitcoin",
+        "date": "26-10-2024",
+        "current_price": 66585.66535501445,
+        "market_cap": 1313975091942.221,
+        "total_volume": 48426924850.053406
+    },
+    {
+        "symbol": "btc",
+        "name": "Bitcoin",
+        "date": "25-10-2024",
+        "current_price": 68214.05205157402,
+        "market_cap": 1347888109010.5889,
+        "total_volume": 35892606570.03549
+    },
+    {
+        "symbol": "btc",
+        "name": "Bitcoin",
+        "date": "24-10-2024",
+        "current_price": 66683.96806542306,
+        "market_cap": 1318285437546.2786,
+        "total_volume": 32676918488.059
+    },
+    {
+        "symbol": "btc",
+        "name": "Bitcoin",
+        "date": "23-10-2024",
+        "current_price": 67351.04793512498,
+        "market_cap": 1331426858508.4004,
+        "total_volume": 31398389967.38113
+    },
+    {
+        "symbol": "btc",
+        "name": "Bitcoin",
+        "date": "22-10-2024",
+        "current_price": 67394.85775735618,
+        "market_cap": 1332326858574.4448,
+        "total_volume": 40485496091.95008
+    },
+    {
+        "symbol": "btc",
+        "name": "Bitcoin",
+        "date": "21-10-2024",
+        "current_price": 68962.82918045693,
+        "market_cap": 1362381684459.9053,
+        "total_volume": 17253863432.786995
+    },
+    {
+        "symbol": "btc",
+        "name": "Bitcoin",
+        "date": "20-10-2024",
+        "current_price": 68388.87128965274,
+        "market_cap": 1351942347611.1997,
+        "total_volume": 14110889435.452631
+    },
+    {
+        "symbol": "btc",
+        "name": "Bitcoin",
+        "date": "19-10-2024",
+        "current_price": 68465.61920668735,
+        "market_cap": 1353541799303.4875,
+        "total_volume": 39984956633.228035
+    },
+    {
+        "symbol": "btc",
+        "name": "Bitcoin",
+        "date": "18-10-2024",
+        "current_price": 67328.10527002988,
+        "market_cap": 1330387728623.8188,
+        "total_volume": 34512072357.92087
+    },
+    {
+        "symbol": "btc",
+        "name": "Bitcoin",
+        "date": "17-10-2024",
+        "current_price": 67647.54414766871,
+        "market_cap": 1337304399194.887,
+        "total_volume": 40640495380.19594
+    },
+    {
+        "symbol": "btc",
+        "name": "Bitcoin",
+        "date": "16-10-2024",
+        "current_price": 66962.21994496793,
+        "market_cap": 1323774576161.621,
+        "total_volume": 51797932876.82809
+    },
+    {
+        "symbol": "btc",
+        "name": "Bitcoin",
+        "date": "15-10-2024",
+        "current_price": 66049.99492708022,
+        "market_cap": 1306085613997.8015,
+        "total_volume": 46553796134.14602
+    },
+    {
+        "symbol": "btc",
+        "name": "Bitcoin",
+        "date": "14-10-2024",
+        "current_price": 62829.533686088886,
+        "market_cap": 1241241970951.0295,
+        "total_volume": 16784552979.060463
+    },
+    {
+        "symbol": "btc",
+        "name": "Bitcoin",
+        "date": "13-10-2024",
+        "current_price": 63207.77062127557,
+        "market_cap": 1249002272717.2275,
+        "total_volume": 17665963646.417107
+    },
+    {
+        "symbol": "btc",
+        "name": "Bitcoin",
+        "date": "12-10-2024",
+        "current_price": 62392.34048293159,
+        "market_cap": 1233357176570.333,
+        "total_volume": 32008659336.482643
+    },
+    {
+        "symbol": "btc",
+        "name": "Bitcoin",
+        "date": "11-10-2024",
+        "current_price": 60195.18073772453,
+        "market_cap": 1189691671375.1472,
+        "total_volume": 29481971885.649742
+    },
+    {
+        "symbol": "btc",
+        "name": "Bitcoin",
+        "date": "10-10-2024",
+        "current_price": 60597.15045618275,
+        "market_cap": 1197736450280.4102,
+        "total_volume": 28530748117.898792
+    },
+    {
+        "symbol": "btc",
+        "name": "Bitcoin",
+        "date": "09-10-2024",
+        "current_price": 62185.230423727575,
+        "market_cap": 1229717180592.4397,
+        "total_volume": 28626429276.55382
+    },
+    {
+        "symbol": "btc",
+        "name": "Bitcoin",
+        "date": "08-10-2024",
+        "current_price": 62287.39010510681,
+        "market_cap": 1231091696620.0955,
+        "total_volume": 33878876147.30253
+    },
+    {
+        "symbol": "btc",
+        "name": "Bitcoin",
+        "date": "07-10-2024",
+        "current_price": 62811.79972811266,
+        "market_cap": 1241834324867.657,
+        "total_volume": 14592422860.685436
+    },
+    {
+        "symbol": "btc",
+        "name": "Bitcoin",
+        "date": "06-10-2024",
+        "current_price": 62091.932585194016,
+        "market_cap": 1226761949791.163,
+        "total_volume": 11095453162.990673
+    },
+    {
+        "symbol": "btc",
+        "name": "Bitcoin",
+        "date": "05-10-2024",
+        "current_price": 62103.01047283253,
+        "market_cap": 1226663492771.043,
+        "total_volume": 30349059838.684578
+    },
+    {
+        "symbol": "btc",
+        "name": "Bitcoin",
+        "date": "04-10-2024",
+        "current_price": 60727.86395169296,
+        "market_cap": 1200491237695.5154,
+        "total_volume": 37711138441.76231
+    },
+    {
+        "symbol": "btc",
+        "name": "Bitcoin",
+        "date": "03-10-2024",
+        "current_price": 60655.55979196848,
+        "market_cap": 1198652098493.4897,
+        "total_volume": 41870731291.86736
+    },
+    {
+        "symbol": "btc",
+        "name": "Bitcoin",
+        "date": "02-10-2024",
+        "current_price": 60872.668543725544,
+        "market_cap": 1202927109017.5488,
+        "total_volume": 54251488433.95029
+    },
+    {
+        "symbol": "btc",
+        "name": "Bitcoin",
+        "date": "01-10-2024",
+        "current_price": 63243.27532464382,
+        "market_cap": 1249577803402.1707,
+        "total_volume": 35124446789.27111
+    },
+    {
+        "symbol": "btc",
+        "name": "Bitcoin",
+        "date": "30-09-2024",
+        "current_price": 65663.68986662335,
+        "market_cap": 1297825615076.3352,
+        "total_volume": 12948707838.938381
+    },
+    {
+        "symbol": "btc",
+        "name": "Bitcoin",
+        "date": "29-09-2024",
+        "current_price": 65934.10709441357,
+        "market_cap": 1303217687717.8518,
+        "total_volume": 15342911002.84781
+    },
+    {
+        "symbol": "btc",
+        "name": "Bitcoin",
+        "date": "28-09-2024",
+        "current_price": 65791.00212541742,
+        "market_cap": 1299708226182.0723,
+        "total_volume": 32664917503.931107
+    },
+    {
+        "symbol": "btc",
+        "name": "Bitcoin",
+        "date": "27-09-2024",
+        "current_price": 65130.76884023231,
+        "market_cap": 1287151352432.846,
+        "total_volume": 37995568903.94455
+    },
+    {
+        "symbol": "btc",
+        "name": "Bitcoin",
+        "date": "26-09-2024",
+        "current_price": 63151.89959401337,
+        "market_cap": 1245721254991.302,
+        "total_volume": 26087643765.748165
+    },
+    {
+        "symbol": "btc",
+        "name": "Bitcoin",
+        "date": "25-09-2024",
+        "current_price": 64334.14274876097,
+        "market_cap": 1271183646356.5713,
+        "total_volume": 31490984593.70592
+    },
+    {
+        "symbol": "btc",
+        "name": "Bitcoin",
+        "date": "24-09-2024",
+        "current_price": 63327.02654450202,
+        "market_cap": 1251095079247.0432,
+        "total_volume": 23998847798.757656
+    },
+    {
+        "symbol": "btc",
+        "name": "Bitcoin",
+        "date": "23-09-2024",
+        "current_price": 63582.59956924825,
+        "market_cap": 1255899286380.1958,
+        "total_volume": 20349365412.816723
+    },
+    {
+        "symbol": "btc",
+        "name": "Bitcoin",
+        "date": "22-09-2024",
+        "current_price": 63403.402349259355,
+        "market_cap": 1254104417392.48,
+        "total_volume": 12938083115.659332
+    },
+    {
+        "symbol": "btc",
+        "name": "Bitcoin",
+        "date": "21-09-2024",
+        "current_price": 63128.224540748255,
+        "market_cap": 1246475981189.1353,
+        "total_volume": 35587830476.533394
+    },
+    {
+        "symbol": "btc",
+        "name": "Bitcoin",
+        "date": "20-09-2024",
+        "current_price": 62966.52931910512,
+        "market_cap": 1243871590271.4927,
+        "total_volume": 41959080716.28771
+    },
+    {
+        "symbol": "btc",
+        "name": "Bitcoin",
+        "date": "19-09-2024",
+        "current_price": 61440.41208494509,
+        "market_cap": 1211837853548.9263,
+        "total_volume": 40445339415.1129
+    },
+    {
+        "symbol": "btc",
+        "name": "Bitcoin",
+        "date": "18-09-2024",
+        "current_price": 60317.0319794625,
+        "market_cap": 1191818552363.6113,
+        "total_volume": 34191170117.78261
+    },
+    {
+        "symbol": "btc",
+        "name": "Bitcoin",
+        "date": "17-09-2024",
+        "current_price": 58211.123231286256,
+        "market_cap": 1150499194409.9338,
+        "total_volume": 32196570894.402115
+    },
+    {
+        "symbol": "btc",
+        "name": "Bitcoin",
+        "date": "16-09-2024",
+        "current_price": 59214.80226801806,
+        "market_cap": 1169677517083.0613,
+        "total_volume": 17289597542.866756
+    },
+    {
+        "symbol": "btc",
+        "name": "Bitcoin",
+        "date": "15-09-2024",
+        "current_price": 60003.29940083042,
+        "market_cap": 1185255944124.8464,
+        "total_volume": 15800120841.166773
+    },
+    {
+        "symbol": "btc",
+        "name": "Bitcoin",
+        "date": "14-09-2024",
+        "current_price": 60620.62747295754,
+        "market_cap": 1197832322916.0117,
+        "total_volume": 31919740723.76027
+    },
+    {
+        "symbol": "btc",
+        "name": "Bitcoin",
+        "date": "13-09-2024",
+        "current_price": 58106.951229815284,
+        "market_cap": 1148469900814.253,
+        "total_volume": 34177859933.02337
+    },
+    {
+        "symbol": "btc",
+        "name": "Bitcoin",
+        "date": "12-09-2024",
+        "current_price": 57381.764445000474,
+        "market_cap": 1134292554478.847,
+        "total_volume": 37765652735.2964
+    },
+    {
+        "symbol": "btc",
+        "name": "Bitcoin",
+        "date": "11-09-2024",
+        "current_price": 57624.16178336144,
+        "market_cap": 1137928777838.5286,
+        "total_volume": 29676093302.30697
+    },
+    {
+        "symbol": "btc",
+        "name": "Bitcoin",
+        "date": "10-09-2024",
+        "current_price": 57049.118751143265,
+        "market_cap": 1126840069631.8132,
+        "total_volume": 35655419448.07046
+    },
+    {
+        "symbol": "btc",
+        "name": "Bitcoin",
+        "date": "09-09-2024",
+        "current_price": 54792.40755768575,
+        "market_cap": 1085390277573.522,
+        "total_volume": 18644823662.23431
+    },
+    {
+        "symbol": "btc",
+        "name": "Bitcoin",
+        "date": "08-09-2024",
+        "current_price": 54150.9383589072,
+        "market_cap": 1068954727890.2039,
+        "total_volume": 17048448412.007126
+    },
+    {
+        "symbol": "btc",
+        "name": "Bitcoin",
+        "date": "07-09-2024",
+        "current_price": 53923.35611071905,
+        "market_cap": 1065462041080.5197,
+        "total_volume": 50260816556.81667
+    },
+    {
+        "symbol": "btc",
+        "name": "Bitcoin",
+        "date": "06-09-2024",
+        "current_price": 56132.404732088595,
+        "market_cap": 1109212553022.4158,
+        "total_volume": 30005773445.693718
+    },
+    {
+        "symbol": "btc",
+        "name": "Bitcoin",
+        "date": "05-09-2024",
+        "current_price": 57987.84601410068,
+        "market_cap": 1144983177152.221,
+        "total_volume": 37550380696.7459
+    },
+    {
+        "symbol": "btc",
+        "name": "Bitcoin",
+        "date": "04-09-2024",
+        "current_price": 57504.538586220435,
+        "market_cap": 1137361604370.578,
+        "total_volume": 26829983370.35861
+    },
+    {
+        "symbol": "btc",
+        "name": "Bitcoin",
+        "date": "03-09-2024",
+        "current_price": 59108.73235863689,
+        "market_cap": 1168410293915.9832,
+        "total_volume": 28012782290.96625
+    },
+    {
+        "symbol": "btc",
+        "name": "Bitcoin",
+        "date": "02-09-2024",
+        "current_price": 57357.71617282246,
+        "market_cap": 1133133027660.6194,
+        "total_volume": 25465621877.97047
+    },
+    {
+        "symbol": "btc",
+        "name": "Bitcoin",
+        "date": "01-09-2024",
+        "current_price": 58960.23658664587,
+        "market_cap": 1164278309271.2642,
+        "total_volume": 11399086336.303324
+    },
+    {
+        "symbol": "btc",
+        "name": "Bitcoin",
+        "date": "31-08-2024",
+        "current_price": 59156.246036463555,
+        "market_cap": 1168247205700.9673,
+        "total_volume": 44038496614.947586
+    },
+    {
+        "symbol": "btc",
+        "name": "Bitcoin",
+        "date": "30-08-2024",
+        "current_price": 59351.5794909728,
+        "market_cap": 1171762256043.917,
+        "total_volume": 32563333956.986053
+    },
+    {
+        "symbol": "btc",
+        "name": "Bitcoin",
+        "date": "29-08-2024",
+        "current_price": 59015.29633887944,
+        "market_cap": 1166032395735.947,
+        "total_volume": 42018989572.42786
+    },
+    {
+        "symbol": "btc",
+        "name": "Bitcoin",
+        "date": "28-08-2024",
+        "current_price": 59526.560879590994,
+        "market_cap": 1176762244308.0742,
+        "total_volume": 38131727427.91789
+    },
+    {
+        "symbol": "btc",
+        "name": "Bitcoin",
+        "date": "27-08-2024",
+        "current_price": 62922.58634676265,
+        "market_cap": 1242487823611.2612,
+        "total_volume": 17894692681.091812
+    },
+    {
+        "symbol": "btc",
+        "name": "Bitcoin",
+        "date": "26-08-2024",
+        "current_price": 64265.81631272862,
+        "market_cap": 1269291077270.1143,
+        "total_volume": 17875230147.044323
+    },
+    {
+        "symbol": "btc",
+        "name": "Bitcoin",
+        "date": "25-08-2024",
+        "current_price": 64157.1606134782,
+        "market_cap": 1264961887998.9824,
+        "total_volume": 22029153446.354362
+    },
+    {
+        "symbol": "btc",
+        "name": "Bitcoin",
+        "date": "24-08-2024",
+        "current_price": 64049.68561555576,
+        "market_cap": 1261916434075.0183,
+        "total_volume": 45038665759.42134
+    },
+    {
+        "symbol": "btc",
+        "name": "Bitcoin",
+        "date": "23-08-2024",
+        "current_price": 60387.54062321362,
+        "market_cap": 1192308382713.8381,
+        "total_volume": 28170302505.847404
+    },
+    {
+        "symbol": "btc",
+        "name": "Bitcoin",
+        "date": "22-08-2024",
+        "current_price": 61144.68762866613,
+        "market_cap": 1207099049402.5117,
+        "total_volume": 32960965010.60808
+    },
+    {
+        "symbol": "btc",
+        "name": "Bitcoin",
+        "date": "21-08-2024",
+        "current_price": 59060.12610074137,
+        "market_cap": 1166088863323.0896,
+        "total_volume": 31470716090.619144
+    },
+    {
+        "symbol": "btc",
+        "name": "Bitcoin",
+        "date": "20-08-2024",
+        "current_price": 59574.945812940874,
+        "market_cap": 1176063402361.815,
+        "total_volume": 24031330179.258953
+    },
+    {
+        "symbol": "btc",
+        "name": "Bitcoin",
+        "date": "19-08-2024",
+        "current_price": 58438.293742685404,
+        "market_cap": 1156217205294.1643,
+        "total_volume": 17656027563.72502
+    },
+    {
+        "symbol": "btc",
+        "name": "Bitcoin",
+        "date": "18-08-2024",
+        "current_price": 59430.79163445865,
+        "market_cap": 1173270497431.1711,
+        "total_volume": 12467437134.05582
+    },
+    {
+        "symbol": "btc",
+        "name": "Bitcoin",
+        "date": "17-08-2024",
+        "current_price": 58881.92579151217,
+        "market_cap": 1162716063850.1133,
+        "total_volume": 30368238897.207172
+    },
+    {
+        "symbol": "btc",
+        "name": "Bitcoin",
+        "date": "16-08-2024",
+        "current_price": 57624.11692852191,
+        "market_cap": 1137141836825.8655,
+        "total_volume": 33490251842.381626
+    },
+    {
+        "symbol": "btc",
+        "name": "Bitcoin",
+        "date": "15-08-2024",
+        "current_price": 58739.19382231015,
+        "market_cap": 1159479277227.7532,
+        "total_volume": 28079911397.67297
+    },
+    {
+        "symbol": "btc",
+        "name": "Bitcoin",
+        "date": "14-08-2024",
+        "current_price": 60601.22317789727,
+        "market_cap": 1195798013190.8457,
+        "total_volume": 31955576195.246292
+    },
+    {
+        "symbol": "btc",
+        "name": "Bitcoin",
+        "date": "13-08-2024",
+        "current_price": 59350.07433270696,
+        "market_cap": 1171441797233.8909,
+        "total_volume": 39403296385.84335
+    },
+    {
+        "symbol": "btc",
+        "name": "Bitcoin",
+        "date": "12-08-2024",
+        "current_price": 58804.23449992608,
+        "market_cap": 1159146815397.6223,
+        "total_volume": 21715994493.456894
+    },
+    {
+        "symbol": "btc",
+        "name": "Bitcoin",
+        "date": "11-08-2024",
+        "current_price": 60887.70861641504,
+        "market_cap": 1201818989571.278,
+        "total_volume": 13418919090.197285
+    },
+    {
+        "symbol": "btc",
+        "name": "Bitcoin",
+        "date": "10-08-2024",
+        "current_price": 60912.588533350805,
+        "market_cap": 1198300504959.2505,
+        "total_volume": 33804208928.47938
+    },
+    {
+        "symbol": "btc",
+        "name": "Bitcoin",
+        "date": "09-08-2024",
+        "current_price": 61859.03159904161,
+        "market_cap": 1218342891278.6091,
+        "total_volume": 49201548320.290726
+    },
+    {
+        "symbol": "btc",
+        "name": "Bitcoin",
+        "date": "08-08-2024",
+        "current_price": 55099.95181146735,
+        "market_cap": 1088566703585.4303,
+        "total_volume": 41605918903.41173
+    },
+    {
+        "symbol": "btc",
+        "name": "Bitcoin",
+        "date": "07-08-2024",
+        "current_price": 55959.84107399357,
+        "market_cap": 1104019419316.6865,
+        "total_volume": 52620100833.47091
+    },
+    {
+        "symbol": "btc",
+        "name": "Bitcoin",
+        "date": "06-08-2024",
+        "current_price": 53956.26184159744,
+        "market_cap": 1064889039013.8289,
+        "total_volume": 120245972389.37173
+    },
+    {
+        "symbol": "btc",
+        "name": "Bitcoin",
+        "date": "05-08-2024",
+        "current_price": 58006.206586686734,
+        "market_cap": 1147854905921.6433,
+        "total_volume": 33664501541.451115
+    },
+    {
+        "symbol": "btc",
+        "name": "Bitcoin",
+        "date": "04-08-2024",
+        "current_price": 60738.7449250574,
+        "market_cap": 1197962170718.7737,
+        "total_volume": 32885545023.712658
+    },
+    {
+        "symbol": "btc",
+        "name": "Bitcoin",
+        "date": "03-08-2024",
+        "current_price": 61407.29547397454,
+        "market_cap": 1211854070245.47,
+        "total_volume": 39004321616.3716
+    },
+    {
+        "symbol": "btc",
+        "name": "Bitcoin",
+        "date": "02-08-2024",
+        "current_price": 65357.52960767435,
+        "market_cap": 1289157073527.528,
+        "total_volume": 38911302447.60912
+    },
+    {
+        "symbol": "btc",
+        "name": "Bitcoin",
+        "date": "01-08-2024",
+        "current_price": 64679.778647032515,
+        "market_cap": 1275401473742.0508,
+        "total_volume": 31403681581.194077
+    },
+    {
+        "symbol": "btc",
+        "name": "Bitcoin",
+        "date": "31-07-2024",
+        "current_price": 66219.05102486102,
+        "market_cap": 1306758338817.987,
+        "total_volume": 28892376510.689587
+    },
+    {
+        "symbol": "btc",
+        "name": "Bitcoin",
+        "date": "30-07-2024",
+        "current_price": 66770.32091848266,
+        "market_cap": 1317581413497.2551,
+        "total_volume": 42529043667.45024
+    },
+    {
+        "symbol": "btc",
+        "name": "Bitcoin",
+        "date": "29-07-2024",
+        "current_price": 68242.2474440493,
+        "market_cap": 1346263382369.5552,
+        "total_volume": 17175244020.36542
+    },
+    {
+        "symbol": "btc",
+        "name": "Bitcoin",
+        "date": "28-07-2024",
+        "current_price": 68055.40838968738,
+        "market_cap": 1342889431798.832,
+        "total_volume": 30976752616.761925
+    },
+    {
+        "symbol": "btc",
+        "name": "Bitcoin",
+        "date": "27-07-2024",
+        "current_price": 67920.2964857025,
+        "market_cap": 1339927966898.6016,
+        "total_volume": 30821370069.206276
+    },
+    {
+        "symbol": "btc",
+        "name": "Bitcoin",
+        "date": "26-07-2024",
+        "current_price": 65749.96361965332,
+        "market_cap": 1297125144853.139,
+        "total_volume": 35836896135.542854
+    },
+    {
+        "symbol": "btc",
+        "name": "Bitcoin",
+        "date": "25-07-2024",
+        "current_price": 65403.53513022529,
+        "market_cap": 1290447066028.3152,
+        "total_volume": 28680123269.715443
+    },
+    {
+        "symbol": "btc",
+        "name": "Bitcoin",
+        "date": "24-07-2024",
+        "current_price": 65942.41746522837,
+        "market_cap": 1300963591115.5374,
+        "total_volume": 36100536095.18872
+    },
+    {
+        "symbol": "btc",
+        "name": "Bitcoin",
+        "date": "23-07-2024",
+        "current_price": 67607.71339918874,
+        "market_cap": 1333201881091.7786,
+        "total_volume": 43157593651.80313
+    },
+    {
+        "symbol": "btc",
+        "name": "Bitcoin",
+        "date": "22-07-2024",
+        "current_price": 68088.13996324532,
+        "market_cap": 1343346742483.077,
+        "total_volume": 27078771827.95196
+    },
+    {
+        "symbol": "btc",
+        "name": "Bitcoin",
+        "date": "21-07-2024",
+        "current_price": 67206.06470614894,
+        "market_cap": 1325658979467.9998,
+        "total_volume": 17353396168.041622
+    },
+    {
+        "symbol": "btc",
+        "name": "Bitcoin",
+        "date": "20-07-2024",
+        "current_price": 66689.54880734957,
+        "market_cap": 1316147398343.7175,
+        "total_volume": 36994610752.230415
+    },
+    {
+        "symbol": "btc",
+        "name": "Bitcoin",
+        "date": "19-07-2024",
+        "current_price": 63959.56900809379,
+        "market_cap": 1261456293182.2588,
+        "total_volume": 25976148878.632153
+    },
+    {
+        "symbol": "btc",
+        "name": "Bitcoin",
+        "date": "18-07-2024",
+        "current_price": 64136.31384360687,
+        "market_cap": 1266016458007.3477,
+        "total_volume": 33459451713.593426
+    },
+    {
+        "symbol": "btc",
+        "name": "Bitcoin",
+        "date": "17-07-2024",
+        "current_price": 65162.23625234354,
+        "market_cap": 1284899538175.1812,
+        "total_volume": 40914441633.09575
+    },
+    {
+        "symbol": "btc",
+        "name": "Bitcoin",
+        "date": "16-07-2024",
+        "current_price": 64835.48973321571,
+        "market_cap": 1277806993830.5176,
+        "total_volume": 37810068492.862465
+    },
+    {
+        "symbol": "btc",
+        "name": "Bitcoin",
+        "date": "15-07-2024",
+        "current_price": 60942.32773996293,
+        "market_cap": 1204059167828.704,
+        "total_volume": 21295520563.65442
+    },
+    {
+        "symbol": "btc",
+        "name": "Bitcoin",
+        "date": "14-07-2024",
+        "current_price": 59152.71913887286,
+        "market_cap": 1168371787725.7102,
+        "total_volume": 16765547593.243273
+    },
+    {
+        "symbol": "btc",
+        "name": "Bitcoin",
+        "date": "13-07-2024",
+        "current_price": 57899.28895749592,
+        "market_cap": 1141567375406.1943,
+        "total_volume": 25504482306.198975
+    },
+    {
+        "symbol": "btc",
+        "name": "Bitcoin",
+        "date": "12-07-2024",
+        "current_price": 57388.192479166675,
+        "market_cap": 1130276546536.143,
+        "total_volume": 29196653598.752666
+    },
+    {
+        "symbol": "btc",
+        "name": "Bitcoin",
+        "date": "11-07-2024",
+        "current_price": 57704.202284462874,
+        "market_cap": 1139350681822.5857,
+        "total_volume": 25987656347.278587
+    },
+    {
+        "symbol": "btc",
+        "name": "Bitcoin",
+        "date": "10-07-2024",
+        "current_price": 57988.30351208401,
+        "market_cap": 1144794688186.9604,
+        "total_volume": 28413854577.262756
+    },
+    {
+        "symbol": "btc",
+        "name": "Bitcoin",
+        "date": "09-07-2024",
+        "current_price": 56665.140733520275,
+        "market_cap": 1117615464651.686,
+        "total_volume": 41614266908.30467
+    },
+    {
+        "symbol": "btc",
+        "name": "Bitcoin",
+        "date": "08-07-2024",
+        "current_price": 55880.3753776708,
+        "market_cap": 1100452083927.7026,
+        "total_volume": 20211914621.326435
+    },
+    {
+        "symbol": "btc",
+        "name": "Bitcoin",
+        "date": "07-07-2024",
+        "current_price": 58230.4841542266,
+        "market_cap": 1147176330416.144,
+        "total_volume": 21293913670.919975
+    },
+    {
+        "symbol": "btc",
+        "name": "Bitcoin",
+        "date": "06-07-2024",
+        "current_price": 56739.86285107204,
+        "market_cap": 1118490666778.4585,
+        "total_volume": 60081357583.2773
+    },
+    {
+        "symbol": "btc",
+        "name": "Bitcoin",
+        "date": "05-07-2024",
+        "current_price": 57189.17412408636,
+        "market_cap": 1130121668991.0515,
+        "total_volume": 43112005394.93119
+    },
+    {
+        "symbol": "btc",
+        "name": "Bitcoin",
+        "date": "04-07-2024",
+        "current_price": 60244.68076433092,
+        "market_cap": 1186937170314.9272,
+        "total_volume": 30348692427.02443
+    },
+    {
+        "symbol": "btc",
+        "name": "Bitcoin",
+        "date": "03-07-2024",
+        "current_price": 62042.5650371006,
+        "market_cap": 1222901857941.0586,
+        "total_volume": 18100530101.689426
+    },
+    {
+        "symbol": "btc",
+        "name": "Bitcoin",
+        "date": "02-07-2024",
+        "current_price": 62819.82226921849,
+        "market_cap": 1238799172479.871,
+        "total_volume": 25573074910.689686
+    },
+    {
+        "symbol": "btc",
+        "name": "Bitcoin",
+        "date": "01-07-2024",
+        "current_price": 62734.39383945474,
+        "market_cap": 1236676710888.4822,
+        "total_volume": 17373592048.120487
+    },
+    {
+        "symbol": "btc",
+        "name": "Bitcoin",
+        "date": "30-06-2024",
+        "current_price": 60864.44316193428,
+        "market_cap": 1199792912680.844,
+        "total_volume": 11435110883.886795
+    },
+    {
+        "symbol": "btc",
+        "name": "Bitcoin",
+        "date": "29-06-2024",
+        "current_price": 60317.09697945116,
+        "market_cap": 1189569860170.9426,
+        "total_volume": 24399416695.150173
+    },
+    {
+        "symbol": "btc",
+        "name": "Bitcoin",
+        "date": "28-06-2024",
+        "current_price": 61562.64532550036,
+        "market_cap": 1213931985719.8025,
+        "total_volume": 18855138893.067604
+    },
+    {
+        "symbol": "btc",
+        "name": "Bitcoin",
+        "date": "27-06-2024",
+        "current_price": 60749.89619402014,
+        "market_cap": 1198205485427.564,
+        "total_volume": 22908540918.971207
+    },
+    {
+        "symbol": "btc",
+        "name": "Bitcoin",
+        "date": "26-06-2024",
+        "current_price": 61770.413870095355,
+        "market_cap": 1217935012739.8113,
+        "total_volume": 21105562261.648533
+    },
+    {
+        "symbol": "btc",
+        "name": "Bitcoin",
+        "date": "25-06-2024",
+        "current_price": 60363.23497529626,
+        "market_cap": 1188964670369.4045,
+        "total_volume": 42036553106.89028
+    },
+    {
+        "symbol": "btc",
+        "name": "Bitcoin",
+        "date": "24-06-2024",
+        "current_price": 63221.35738437477,
+        "market_cap": 1248188877658.2324,
+        "total_volume": 10748270931.518738
+    },
+    {
+        "symbol": "btc",
+        "name": "Bitcoin",
+        "date": "23-06-2024",
+        "current_price": 64239.90348813148,
+        "market_cap": 1266336092890.8738,
+        "total_volume": 6340606686.24879
+    },
+    {
+        "symbol": "btc",
+        "name": "Bitcoin",
+        "date": "22-06-2024",
+        "current_price": 64071.624284709695,
+        "market_cap": 1263258746635.2896,
+        "total_volume": 24694310198.90943
+    },
+    {
+        "symbol": "btc",
+        "name": "Bitcoin",
+        "date": "21-06-2024",
+        "current_price": 64844.67441797763,
+        "market_cap": 1279317116821.3782,
+        "total_volume": 26001551474.84426
+    },
+    {
+        "symbol": "btc",
+        "name": "Bitcoin",
+        "date": "20-06-2024",
+        "current_price": 64907.07460760319,
+        "market_cap": 1278699763341.0723,
+        "total_volume": 21680698980.889107
+    },
+    {
+        "symbol": "btc",
+        "name": "Bitcoin",
+        "date": "19-06-2024",
+        "current_price": 65109.314812190474,
+        "market_cap": 1282295865979.065,
+        "total_volume": 41386972050.31837
+    },
+    {
+        "symbol": "btc",
+        "name": "Bitcoin",
+        "date": "18-06-2024",
+        "current_price": 66460.38897909952,
+        "market_cap": 1309329377372.7744,
+        "total_volume": 29409728999.276093
+    },
+    {
+        "symbol": "btc",
+        "name": "Bitcoin",
+        "date": "17-06-2024",
+        "current_price": 66615.53782131766,
+        "market_cap": 1313849391756.9756,
+        "total_volume": 12650130203.722813
+    },
+    {
+        "symbol": "btc",
+        "name": "Bitcoin",
+        "date": "16-06-2024",
+        "current_price": 66190.4874891135,
+        "market_cap": 1304370314917.9756,
+        "total_volume": 13472726244.723091
+    },
+    {
+        "symbol": "btc",
+        "name": "Bitcoin",
+        "date": "15-06-2024",
+        "current_price": 66011.07873713733,
+        "market_cap": 1301949410096.3496,
+        "total_volume": 27966992832.749634
+    },
+    {
+        "symbol": "btc",
+        "name": "Bitcoin",
+        "date": "14-06-2024",
+        "current_price": 66700.31696564378,
+        "market_cap": 1317161415434.6978,
+        "total_volume": 29654777884.381138
+    },
+    {
+        "symbol": "btc",
+        "name": "Bitcoin",
+        "date": "13-06-2024",
+        "current_price": 68224.51967501991,
+        "market_cap": 1345244310606.6865,
+        "total_volume": 36027809551.45211
+    },
+    {
+        "symbol": "btc",
+        "name": "Bitcoin",
+        "date": "12-06-2024",
+        "current_price": 67329.15232724321,
+        "market_cap": 1327665028180.2761,
+        "total_volume": 38513044382.60802
+    },
+    {
+        "symbol": "btc",
+        "name": "Bitcoin",
+        "date": "11-06-2024",
+        "current_price": 69493.17760915738,
+        "market_cap": 1369378888543.5317,
+        "total_volume": 19335866773.67523
+    },
+    {
+        "symbol": "btc",
+        "name": "Bitcoin",
+        "date": "10-06-2024",
+        "current_price": 69654.16073760358,
+        "market_cap": 1372556186704.501,
+        "total_volume": 10461044041.080194
+    },
+    {
+        "symbol": "btc",
+        "name": "Bitcoin",
+        "date": "09-06-2024",
+        "current_price": 69315.1041233966,
+        "market_cap": 1366065699664.3162,
+        "total_volume": 10688301508.476225
+    },
+    {
+        "symbol": "btc",
+        "name": "Bitcoin",
+        "date": "08-06-2024",
+        "current_price": 69325.36238847222,
+        "market_cap": 1366366925856.506,
+        "total_volume": 18597495569.911568
+    },
+    {
+        "symbol": "btc",
+        "name": "Bitcoin",
+        "date": "07-06-2024",
+        "current_price": 70759.58819301432,
+        "market_cap": 1394881646977.521,
+        "total_volume": 23612879689.560955
+    },
+    {
+        "symbol": "btc",
+        "name": "Bitcoin",
+        "date": "06-06-2024",
+        "current_price": 71184.59943059199,
+        "market_cap": 1400297735227.1965,
+        "total_volume": 32560403314.989147
+    },
+    {
+        "symbol": "btc",
+        "name": "Bitcoin",
+        "date": "05-06-2024",
+        "current_price": 70600.01116676089,
+        "market_cap": 1390853496950.4385,
+        "total_volume": 31561053725.144592
+    },
+    {
+        "symbol": "btc",
+        "name": "Bitcoin",
+        "date": "04-06-2024",
+        "current_price": 68808.29368590549,
+        "market_cap": 1355484820107.0864,
+        "total_volume": 29862293749.910686
+    },
+    {
+        "symbol": "btc",
+        "name": "Bitcoin",
+        "date": "03-06-2024",
+        "current_price": 67740.01690222476,
+        "market_cap": 1335930570689.7126,
+        "total_volume": 16137350587.750422
+    },
+    {
+        "symbol": "btc",
+        "name": "Bitcoin",
+        "date": "02-06-2024",
+        "current_price": 67704.32641811523,
+        "market_cap": 1333649555935.3525,
+        "total_volume": 10724053324.55672
+    },
+    {
+        "symbol": "btc",
+        "name": "Bitcoin",
+        "date": "01-06-2024",
+        "current_price": 67474.95483698409,
+        "market_cap": 1331606411822.8157,
+        "total_volume": 19685305476.459476
+    },
+    {
+        "symbol": "btc",
+        "name": "Bitcoin",
+        "date": "31-05-2024",
+        "current_price": 68372.49288434093,
+        "market_cap": 1346147846430.124,
+        "total_volume": 25344376897.716885
+    },
+    {
+        "symbol": "btc",
+        "name": "Bitcoin",
+        "date": "30-05-2024",
+        "current_price": 67577.26558995963,
+        "market_cap": 1331734029835.3335,
+        "total_volume": 24320692137.62038
+    },
+    {
+        "symbol": "btc",
+        "name": "Bitcoin",
+        "date": "29-05-2024",
+        "current_price": 68316.63588049631,
+        "market_cap": 1347542673428.3018,
+        "total_volume": 31278122196.184998
+    },
+    {
+        "symbol": "btc",
+        "name": "Bitcoin",
+        "date": "28-05-2024",
+        "current_price": 69367.23871755725,
+        "market_cap": 1366931305389.0393,
+        "total_volume": 18983806932.464344
+    },
+    {
+        "symbol": "btc",
+        "name": "Bitcoin",
+        "date": "27-05-2024",
+        "current_price": 68508.83110875699,
+        "market_cap": 1349351520129.172,
+        "total_volume": 11243743771.147913
+    },
+    {
+        "symbol": "btc",
+        "name": "Bitcoin",
+        "date": "26-05-2024",
+        "current_price": 69268.44558973772,
+        "market_cap": 1363997851294.8164,
+        "total_volume": 15929396750.116022
+    },
+    {
+        "symbol": "btc",
+        "name": "Bitcoin",
+        "date": "25-05-2024",
+        "current_price": 68539.91646552991,
+        "market_cap": 1350764328536.3708,
+        "total_volume": 28127411967.182774
+    },
+    {
+        "symbol": "btc",
+        "name": "Bitcoin",
+        "date": "24-05-2024",
+        "current_price": 67906.46534276106,
+        "market_cap": 1336347300306.381,
+        "total_volume": 39235702119.25446
+    },
+    {
+        "symbol": "btc",
+        "name": "Bitcoin",
+        "date": "23-05-2024",
+        "current_price": 69181.20085677762,
+        "market_cap": 1362228629448.754,
+        "total_volume": 31059440495.91766
+    },
+    {
+        "symbol": "btc",
+        "name": "Bitcoin",
+        "date": "22-05-2024",
+        "current_price": 70189.8358177002,
+        "market_cap": 1382275470797.567,
+        "total_volume": 41105056578.01701
+    },
+    {
+        "symbol": "btc",
+        "name": "Bitcoin",
+        "date": "21-05-2024",
+        "current_price": 71430.29700215145,
+        "market_cap": 1406288649446.611,
+        "total_volume": 35923476641.4359
+    },
+    {
+        "symbol": "btc",
+        "name": "Bitcoin",
+        "date": "20-05-2024",
+        "current_price": 66252.71259591613,
+        "market_cap": 1304727108597.6987,
+        "total_volume": 9072734600.009218
+    },
+    {
+        "symbol": "btc",
+        "name": "Bitcoin",
+        "date": "19-05-2024",
+        "current_price": 66912.61861403697,
+        "market_cap": 1319928522881.6436,
+        "total_volume": 13025487675.845129
+    },
+    {
+        "symbol": "btc",
+        "name": "Bitcoin",
+        "date": "18-05-2024",
+        "current_price": 67053.12326509564,
+        "market_cap": 1319238394090.13,
+        "total_volume": 25397793918.993534
+    },
+    {
+        "symbol": "btc",
+        "name": "Bitcoin",
+        "date": "17-05-2024",
+        "current_price": 65260.879803346186,
+        "market_cap": 1286278919684.0837,
+        "total_volume": 29114585833.349678
+    },
+    {
+        "symbol": "btc",
+        "name": "Bitcoin",
+        "date": "16-05-2024",
+        "current_price": 66220.51831432826,
+        "market_cap": 1307048849176.4167,
+        "total_volume": 38101793065.15294
+    },
+    {
+        "symbol": "btc",
+        "name": "Bitcoin",
+        "date": "15-05-2024",
+        "current_price": 61569.1130057734,
+        "market_cap": 1212998352772.157,
+        "total_volume": 21581895152.31416
+    },
+    {
+        "symbol": "btc",
+        "name": "Bitcoin",
+        "date": "14-05-2024",
+        "current_price": 62878.783300729294,
+        "market_cap": 1238994152713.125,
+        "total_volume": 27740460083.601814
+    },
+    {
+        "symbol": "btc",
+        "name": "Bitcoin",
+        "date": "13-05-2024",
+        "current_price": 61507.054004121346,
+        "market_cap": 1211277523448.5786,
+        "total_volume": 13045696108.912676
+    },
+    {
+        "symbol": "btc",
+        "name": "Bitcoin",
+        "date": "12-05-2024",
+        "current_price": 60776.972079172134,
+        "market_cap": 1197102943502.2341,
+        "total_volume": 12120618802.065384
+    },
+    {
+        "symbol": "btc",
+        "name": "Bitcoin",
+        "date": "11-05-2024",
+        "current_price": 60888.21674957157,
+        "market_cap": 1199393711200.297,
+        "total_volume": 23987518755.480534
+    },
+    {
+        "symbol": "btc",
+        "name": "Bitcoin",
+        "date": "10-05-2024",
+        "current_price": 63148.599943097026,
+        "market_cap": 1240910691253.6274,
+        "total_volume": 25837724247.550426
+    },
+    {
+        "symbol": "btc",
+        "name": "Bitcoin",
+        "date": "09-05-2024",
+        "current_price": 61215.50400879193,
+        "market_cap": 1203918522476.5405,
+        "total_volume": 20303831135.373127
+    },
+    {
+        "symbol": "btc",
+        "name": "Bitcoin",
+        "date": "08-05-2024",
+        "current_price": 62363.057191718624,
+        "market_cap": 1229336706399.346,
+        "total_volume": 19925137720.849453
+    },
+    {
+        "symbol": "btc",
+        "name": "Bitcoin",
+        "date": "07-05-2024",
+        "current_price": 63172.48129551341,
+        "market_cap": 1244417948315.7583,
+        "total_volume": 17917770174.27797
+    },
+    {
+        "symbol": "btc",
+        "name": "Bitcoin",
+        "date": "06-05-2024",
+        "current_price": 64010.00865210892,
+        "market_cap": 1259667234461.2874,
+        "total_volume": 18115695040.201984
+    },
+    {
+        "symbol": "btc",
+        "name": "Bitcoin",
+        "date": "05-05-2024",
+        "current_price": 63820.451902924986,
+        "market_cap": 1257549583083.3145,
+        "total_volume": 20510614461.479218
+    },
+    {
+        "symbol": "btc",
+        "name": "Bitcoin",
+        "date": "04-05-2024",
+        "current_price": 62839.34073569376,
+        "market_cap": 1239817041554.716,
+        "total_volume": 33591665812.212433
+    },
+    {
+        "symbol": "btc",
+        "name": "Bitcoin",
+        "date": "03-05-2024",
+        "current_price": 59135.1733607733,
+        "market_cap": 1164721402399.166,
+        "total_volume": 28255509745.49032
+    },
+    {
+        "symbol": "btc",
+        "name": "Bitcoin",
+        "date": "02-05-2024",
+        "current_price": 58297.574075325494,
+        "market_cap": 1151677489315.1536,
+        "total_volume": 51109380171.692604
+    },
+    {
+        "symbol": "btc",
+        "name": "Bitcoin",
+        "date": "01-05-2024",
+        "current_price": 60749.47209216387,
+        "market_cap": 1197773959985.8767,
+        "total_volume": 39533113322.04938
+    },
+    {
+        "symbol": "btc",
+        "name": "Bitcoin",
+        "date": "30-04-2024",
+        "current_price": 63797.67963589958,
+        "market_cap": 1257159131219.0603,
+        "total_volume": 27242983698.21234
+    },
+    {
+        "symbol": "btc",
+        "name": "Bitcoin",
+        "date": "29-04-2024",
+        "current_price": 63030.433616681854,
+        "market_cap": 1240724751365.882,
+        "total_volume": 16180294651.046635
+    },
+    {
+        "symbol": "btc",
+        "name": "Bitcoin",
+        "date": "28-04-2024",
+        "current_price": 63517.248743409626,
+        "market_cap": 1249495302303.4912,
+        "total_volume": 19190483386.063873
+    },
+    {
+        "symbol": "btc",
+        "name": "Bitcoin",
+        "date": "27-04-2024",
+        "current_price": 63802.330049258766,
+        "market_cap": 1255539337969.4697,
+        "total_volume": 23302057197.884678
+    },
+    {
+        "symbol": "btc",
+        "name": "Bitcoin",
+        "date": "26-04-2024",
+        "current_price": 64486.183359158975,
+        "market_cap": 1269387456067.624,
+        "total_volume": 24705345525.57077
+    },
+    {
+        "symbol": "btc",
+        "name": "Bitcoin",
+        "date": "25-04-2024",
+        "current_price": 64279.51812857524,
+        "market_cap": 1265541377860.928,
+        "total_volume": 30939903322.025898
+    },
+    {
+        "symbol": "btc",
+        "name": "Bitcoin",
+        "date": "24-04-2024",
+        "current_price": 66406.95244392671,
+        "market_cap": 1306843409278.049,
+        "total_volume": 23232230785.201836
+    },
+    {
+        "symbol": "btc",
+        "name": "Bitcoin",
+        "date": "23-04-2024",
+        "current_price": 66841.66685207361,
+        "market_cap": 1317058642854.2856,
+        "total_volume": 27748586313.20611
+    },
+    {
+        "symbol": "btc",
+        "name": "Bitcoin",
+        "date": "22-04-2024",
+        "current_price": 64936.4207567739,
+        "market_cap": 1279763566407.3762,
+        "total_volume": 19592118541.18973
+    },
+    {
+        "symbol": "btc",
+        "name": "Bitcoin",
+        "date": "21-04-2024",
+        "current_price": 64894.41869109179,
+        "market_cap": 1277940837359.7852,
+        "total_volume": 16601830590.687477
+    },
+    {
+        "symbol": "btc",
+        "name": "Bitcoin",
+        "date": "20-04-2024",
+        "current_price": 63988.818471785664,
+        "market_cap": 1263308149913.607,
+        "total_volume": 52227787323.81757
+    },
+    {
+        "symbol": "btc",
+        "name": "Bitcoin",
+        "date": "19-04-2024",
+        "current_price": 63461.592695107174,
+        "market_cap": 1249565911947.3347,
+        "total_volume": 35901618166.42319
+    },
+    {
+        "symbol": "btc",
+        "name": "Bitcoin",
+        "date": "18-04-2024",
+        "current_price": 61328.89798860725,
+        "market_cap": 1207185042484.4346,
+        "total_volume": 41123362075.93534
+    },
+    {
+        "symbol": "btc",
+        "name": "Bitcoin",
+        "date": "17-04-2024",
+        "current_price": 63720.501587480736,
+        "market_cap": 1253670904297.4917,
+        "total_volume": 42157169474.39519
+    },
+    {
+        "symbol": "btc",
+        "name": "Bitcoin",
+        "date": "16-04-2024",
+        "current_price": 63430.5714573684,
+        "market_cap": 1247928896840.997,
+        "total_volume": 42796604938.03423
+    },
+    {
+        "symbol": "btc",
+        "name": "Bitcoin",
+        "date": "15-04-2024",
+        "current_price": 65752.66004728881,
+        "market_cap": 1293286386553.3967,
+        "total_volume": 40292911692.95434
+    },
+    {
+        "symbol": "btc",
+        "name": "Bitcoin",
+        "date": "14-04-2024",
+        "current_price": 64404.82548907413,
+        "market_cap": 1270009515097.3306,
+        "total_volume": 49214481480.20075
+    },
+    {
+        "symbol": "btc",
+        "name": "Bitcoin",
+        "date": "13-04-2024",
+        "current_price": 67252.10504226631,
+        "market_cap": 1321648247460.1611,
+        "total_volume": 43471949726.09197
+    },
+    {
+        "symbol": "btc",
+        "name": "Bitcoin",
+        "date": "12-04-2024",
+        "current_price": 70106.66413070948,
+        "market_cap": 1379324055321.196,
+        "total_volume": 30118549149.510498
+    },
+    {
+        "symbol": "btc",
+        "name": "Bitcoin",
+        "date": "11-04-2024",
+        "current_price": 70527.88997578963,
+        "market_cap": 1387722485989.3584,
+        "total_volume": 38378062633.13138
+    },
+    {
+        "symbol": "btc",
+        "name": "Bitcoin",
+        "date": "10-04-2024",
+        "current_price": 69158.64381207665,
+        "market_cap": 1361830648708.6648,
+        "total_volume": 36488482038.859055
+    },
+    {
+        "symbol": "btc",
+        "name": "Bitcoin",
+        "date": "09-04-2024",
+        "current_price": 71624.18486236996,
+        "market_cap": 1410324678268.6392,
+        "total_volume": 33111949671.02105
+    },
+    {
+        "symbol": "btc",
+        "name": "Bitcoin",
+        "date": "08-04-2024",
+        "current_price": 69401.97360911008,
+        "market_cap": 1367272232852.0764,
+        "total_volume": 17935478429.01022
+    },
+    {
+        "symbol": "btc",
+        "name": "Bitcoin",
+        "date": "07-04-2024",
+        "current_price": 69000.6499164776,
+        "market_cap": 1358548956714.7139,
+        "total_volume": 19119438138.850826
+    },
+    {
+        "symbol": "btc",
+        "name": "Bitcoin",
+        "date": "06-04-2024",
+        "current_price": 67978.61023408506,
+        "market_cap": 1337452583876.3916,
+        "total_volume": 35132808695.80448
+    },
+    {
+        "symbol": "btc",
+        "name": "Bitcoin",
+        "date": "05-04-2024",
+        "current_price": 68542.17715279506,
+        "market_cap": 1348455954443.3696,
+        "total_volume": 37516850709.63811
+    },
+    {
+        "symbol": "btc",
+        "name": "Bitcoin",
+        "date": "04-04-2024",
+        "current_price": 66123.938539074,
+        "market_cap": 1301670235623.7266,
+        "total_volume": 35559952961.797325
+    },
+    {
+        "symbol": "btc",
+        "name": "Bitcoin",
+        "date": "03-04-2024",
+        "current_price": 65440.41922587159,
+        "market_cap": 1288360536576.547,
+        "total_volume": 45161133992.09071
+    },
+    {
+        "symbol": "btc",
+        "name": "Bitcoin",
+        "date": "02-04-2024",
+        "current_price": 69785.92503802372,
+        "market_cap": 1373784286061.3486,
+        "total_volume": 36040088988.53872
+    },
+    {
+        "symbol": "btc",
+        "name": "Bitcoin",
+        "date": "01-04-2024",
+        "current_price": 71246.95144060145,
+        "market_cap": 1401370211582.3662,
+        "total_volume": 19723005998.21497
+    },
+    {
+        "symbol": "btc",
+        "name": "Bitcoin",
+        "date": "31-03-2024",
+        "current_price": 69702.3087473573,
+        "market_cap": 1370247487960.0945,
+        "total_volume": 16408802301.837431
+    },
+    {
+        "symbol": "btc",
+        "name": "Bitcoin",
+        "date": "30-03-2024",
+        "current_price": 69919.05546148612,
+        "market_cap": 1374646886107.8396,
+        "total_volume": 25785951735.485695
+    },
+    {
+        "symbol": "btc",
+        "name": "Bitcoin",
+        "date": "29-03-2024",
+        "current_price": 70710.19534863312,
+        "market_cap": 1390869723348.0437,
+        "total_volume": 30455289338.47621
+    },
+    {
+        "symbol": "btc",
+        "name": "Bitcoin",
+        "date": "28-03-2024",
+        "current_price": 69435.75040305211,
+        "market_cap": 1360261687784.1018,
+        "total_volume": 41441040887.822266
+    },
+    {
+        "symbol": "btc",
+        "name": "Bitcoin",
+        "date": "27-03-2024",
+        "current_price": 70082.05122475982,
+        "market_cap": 1375728580463.2524,
+        "total_volume": 36257324508.56845
+    },
+    {
+        "symbol": "btc",
+        "name": "Bitcoin",
+        "date": "26-03-2024",
+        "current_price": 69938.94530200244,
+        "market_cap": 1371797489739.3416,
+        "total_volume": 44820310272.647514
+    },
+    {
+        "symbol": "btc",
+        "name": "Bitcoin",
+        "date": "25-03-2024",
+        "current_price": 67310.98326810106,
+        "market_cap": 1323456466317.511,
+        "total_volume": 28098318940.431744
+    },
+    {
+        "symbol": "btc",
+        "name": "Bitcoin",
+        "date": "24-03-2024",
+        "current_price": 64285.80279102199,
+        "market_cap": 1264722355270.5166,
+        "total_volume": 25489933245.687557
+    },
+    {
+        "symbol": "btc",
+        "name": "Bitcoin",
+        "date": "23-03-2024",
+        "current_price": 63509.04496523133,
+        "market_cap": 1247366367469.2778,
+        "total_volume": 42436600223.53738
+    },
+    {
+        "symbol": "btc",
+        "name": "Bitcoin",
+        "date": "22-03-2024",
+        "current_price": 65535.97844847657,
+        "market_cap": 1287348061971.4202,
+        "total_volume": 48393664548.05336
+    },
+    {
+        "symbol": "btc",
+        "name": "Bitcoin",
+        "date": "21-03-2024",
+        "current_price": 67819.05570684028,
+        "market_cap": 1332594162507.5205,
+        "total_volume": 70836803714.91411
+    },
+    {
+        "symbol": "btc",
+        "name": "Bitcoin",
+        "date": "20-03-2024",
+        "current_price": 62132.51737873437,
+        "market_cap": 1223867418062.399,
+        "total_volume": 80179417876.47993
+    },
+    {
+        "symbol": "btc",
+        "name": "Bitcoin",
+        "date": "19-03-2024",
+        "current_price": 67708.94360930806,
+        "market_cap": 1331771923948.0378,
+        "total_volume": 51101822566.75771
+    },
+    {
+        "symbol": "btc",
+        "name": "Bitcoin",
+        "date": "18-03-2024",
+        "current_price": 68425.41565643054,
+        "market_cap": 1344508983079.8567,
+        "total_volume": 47190980586.56393
+    },
+    {
+        "symbol": "btc",
+        "name": "Bitcoin",
+        "date": "17-03-2024",
+        "current_price": 65292.31329331289,
+        "market_cap": 1282404282863.459,
+        "total_volume": 49265436012.59228
+    },
+    {
+        "symbol": "btc",
+        "name": "Bitcoin",
+        "date": "16-03-2024",
+        "current_price": 69497.7631929463,
+        "market_cap": 1367669237527.8738,
+        "total_volume": 81204427005.22603
+    },
+    {
+        "symbol": "btc",
+        "name": "Bitcoin",
+        "date": "15-03-2024",
+        "current_price": 71420.03180142345,
+        "market_cap": 1403843488135.24,
+        "total_volume": 63073551321.74747
+    },
+    {
+        "symbol": "btc",
+        "name": "Bitcoin",
+        "date": "14-03-2024",
+        "current_price": 73097.76702694128,
+        "market_cap": 1436631290571.5388,
+        "total_volume": 51906601043.53671
+    },
+    {
+        "symbol": "btc",
+        "name": "Bitcoin",
+        "date": "13-03-2024",
+        "current_price": 71467.17350326062,
+        "market_cap": 1403692914139.1924,
+        "total_volume": 64599341551.27301
+    },
+    {
+        "symbol": "btc",
+        "name": "Bitcoin",
+        "date": "12-03-2024",
+        "current_price": 72130.55300765681,
+        "market_cap": 1417772589113.9521,
+        "total_volume": 66653067165.93465
+    },
+    {
+        "symbol": "btc",
+        "name": "Bitcoin",
+        "date": "11-03-2024",
+        "current_price": 69075.66688195744,
+        "market_cap": 1357390358031.5388,
+        "total_volume": 36660543917.16198
+    },
+    {
+        "symbol": "btc",
+        "name": "Bitcoin",
+        "date": "10-03-2024",
+        "current_price": 68508.0039626159,
+        "market_cap": 1346027264110.4956,
+        "total_volume": 21359706190.81524
+    },
+    {
+        "symbol": "btc",
+        "name": "Bitcoin",
+        "date": "09-03-2024",
+        "current_price": 68315.25192078314,
+        "market_cap": 1340971395884.519,
+        "total_volume": 63346588227.32869
+    },
+    {
+        "symbol": "btc",
+        "name": "Bitcoin",
+        "date": "08-03-2024",
+        "current_price": 66944.87639053575,
+        "market_cap": 1317508010581.0813,
+        "total_volume": 48853892626.0196
+    },
+    {
+        "symbol": "btc",
+        "name": "Bitcoin",
+        "date": "07-03-2024",
+        "current_price": 66145.91927850846,
+        "market_cap": 1297845751759.601,
+        "total_volume": 73151905042.04068
+    },
+    {
+        "symbol": "btc",
+        "name": "Bitcoin",
+        "date": "06-03-2024",
+        "current_price": 64291.536557569496,
+        "market_cap": 1264870242318.5977,
+        "total_volume": 96403762012.66058
+    },
+    {
+        "symbol": "btc",
+        "name": "Bitcoin",
+        "date": "05-03-2024",
+        "current_price": 68186.64593432152,
+        "market_cap": 1333913436699.1726,
+        "total_volume": 74551714626.1156
+    },
+    {
+        "symbol": "btc",
+        "name": "Bitcoin",
+        "date": "04-03-2024",
+        "current_price": 63053.10543906421,
+        "market_cap": 1236312176673.4497,
+        "total_volume": 27108369390.44353
+    },
+    {
+        "symbol": "btc",
+        "name": "Bitcoin",
+        "date": "03-03-2024",
+        "current_price": 62067.86680212177,
+        "market_cap": 1219383305483.4985,
+        "total_volume": 25198213831.25236
+    },
+    {
+        "symbol": "btc",
+        "name": "Bitcoin",
+        "date": "02-03-2024",
+        "current_price": 62426.64052919186,
+        "market_cap": 1227712629022.1812,
+        "total_volume": 36699193361.155365
+    },
+    {
+        "symbol": "btc",
+        "name": "Bitcoin",
+        "date": "01-03-2024",
+        "current_price": 61298.216861101624,
+        "market_cap": 1206725326872.1362,
+        "total_volume": 67692687247.36391
+    },
+    {
+        "symbol": "btc",
+        "name": "Bitcoin",
+        "date": "29-02-2024",
+        "current_price": 62558.58202419311,
+        "market_cap": 1225273849241.6978,
+        "total_volume": 87218855804.01622
+    },
+    {
+        "symbol": "btc",
+        "name": "Bitcoin",
+        "date": "28-02-2024",
+        "current_price": 57003.52673730811,
+        "market_cap": 1118963733317.3013,
+        "total_volume": 51983799587.1939
+    },
+    {
+        "symbol": "btc",
+        "name": "Bitcoin",
+        "date": "27-02-2024",
+        "current_price": 54478.191083122954,
+        "market_cap": 1071049856128.8474,
+        "total_volume": 35407941475.56789
+    },
+    {
+        "symbol": "btc",
+        "name": "Bitcoin",
+        "date": "26-02-2024",
+        "current_price": 51751.884054934555,
+        "market_cap": 1016549456019.3263,
+        "total_volume": 15455098216.48263
+    },
+    {
+        "symbol": "btc",
+        "name": "Bitcoin",
+        "date": "25-02-2024",
+        "current_price": 51553.096712831146,
+        "market_cap": 1012485917140.1924,
+        "total_volume": 15528276123.53668
+    },
+    {
+        "symbol": "btc",
+        "name": "Bitcoin",
+        "date": "24-02-2024",
+        "current_price": 50841.081094770896,
+        "market_cap": 999139504635.63,
+        "total_volume": 22637679779.740997
+    },
+    {
+        "symbol": "btc",
+        "name": "Bitcoin",
+        "date": "23-02-2024",
+        "current_price": 51319.500125702674,
+        "market_cap": 1007314397269.4122,
+        "total_volume": 23733644208.80861
+    },
+    {
+        "symbol": "btc",
+        "name": "Bitcoin",
+        "date": "22-02-2024",
+        "current_price": 51842.75676625642,
+        "market_cap": 1018869881156.3213,
+        "total_volume": 30624246621.0974
+    },
+    {
+        "symbol": "btc",
+        "name": "Bitcoin",
+        "date": "21-02-2024",
+        "current_price": 52286.79372554667,
+        "market_cap": 1026424315285.75,
+        "total_volume": 34499627551.319275
+    },
+    {
+        "symbol": "btc",
+        "name": "Bitcoin",
+        "date": "20-02-2024",
+        "current_price": 51764.313185487765,
+        "market_cap": 1016146442771.5667,
+        "total_volume": 22555121071.55909
+    },
+    {
+        "symbol": "btc",
+        "name": "Bitcoin",
+        "date": "19-02-2024",
+        "current_price": 52138.48578873693,
+        "market_cap": 1023586119011.2284,
+        "total_volume": 17025880430.565874
+    },
+    {
+        "symbol": "btc",
+        "name": "Bitcoin",
+        "date": "18-02-2024",
+        "current_price": 51684.51749264525,
+        "market_cap": 1015778284418.9253,
+        "total_volume": 19851884283.15723
+    },
+    {
+        "symbol": "btc",
+        "name": "Bitcoin",
+        "date": "17-02-2024",
+        "current_price": 52166.43430976192,
+        "market_cap": 1024019280535.48,
+        "total_volume": 24850432117.896576
+    },
+    {
+        "symbol": "btc",
+        "name": "Bitcoin",
+        "date": "16-02-2024",
+        "current_price": 51958.23029105492,
+        "market_cap": 1020725811639.5323,
+        "total_volume": 31991869491.056656
+    },
+    {
+        "symbol": "btc",
+        "name": "Bitcoin",
+        "date": "15-02-2024",
+        "current_price": 51790.16929752642,
+        "market_cap": 1017596576729.7906,
+        "total_volume": 41805076939.80903
+    },
+    {
+        "symbol": "btc",
+        "name": "Bitcoin",
+        "date": "14-02-2024",
+        "current_price": 49732.14536955351,
+        "market_cap": 974585308372.1277,
+        "total_volume": 37331081151.024765
+    },
+    {
+        "symbol": "btc",
+        "name": "Bitcoin",
+        "date": "13-02-2024",
+        "current_price": 50050.13609456397,
+        "market_cap": 981463410832.9637,
+        "total_volume": 37684440686.70893
+    },
+    {
+        "symbol": "btc",
+        "name": "Bitcoin",
+        "date": "12-02-2024",
+        "current_price": 48189.88179303987,
+        "market_cap": 945579645769.01,
+        "total_volume": 13196875460.84672
+    },
+    {
+        "symbol": "btc",
+        "name": "Bitcoin",
+        "date": "11-02-2024",
+        "current_price": 47768.995251247936,
+        "market_cap": 938210772985.4427,
+        "total_volume": 16461159742.317774
+    },
+    {
+        "symbol": "btc",
+        "name": "Bitcoin",
+        "date": "10-02-2024",
+        "current_price": 47143.24299107112,
+        "market_cap": 925541926938.6151,
+        "total_volume": 41993952311.122856
+    },
+    {
+        "symbol": "btc",
+        "name": "Bitcoin",
+        "date": "09-02-2024",
+        "current_price": 45338.271189789484,
+        "market_cap": 890468166608.419,
+        "total_volume": 27709605138.49859
+    },
+    {
+        "symbol": "btc",
+        "name": "Bitcoin",
+        "date": "08-02-2024",
+        "current_price": 44247.415415479314,
+        "market_cap": 868672050077.7697,
+        "total_volume": 21200879624.73537
+    },
+    {
+        "symbol": "btc",
+        "name": "Bitcoin",
+        "date": "07-02-2024",
+        "current_price": 43087.78740814285,
+        "market_cap": 845393687725.6221,
+        "total_volume": 17131113853.23615
+    },
+    {
+        "symbol": "btc",
+        "name": "Bitcoin",
+        "date": "06-02-2024",
+        "current_price": 42648.45692113544,
+        "market_cap": 836630860392.2917,
+        "total_volume": 18682275991.626797
+    },
+    {
+        "symbol": "btc",
+        "name": "Bitcoin",
+        "date": "05-02-2024",
+        "current_price": 42599.35997055978,
+        "market_cap": 835416357159.2295,
+        "total_volume": 11250814654.362
+    },
+    {
+        "symbol": "btc",
+        "name": "Bitcoin",
+        "date": "04-02-2024",
+        "current_price": 42976.84829990829,
+        "market_cap": 842668526994.8004,
+        "total_volume": 7779819312.310763
+    },
+    {
+        "symbol": "btc",
+        "name": "Bitcoin",
+        "date": "03-02-2024",
+        "current_price": 43170.65856159975,
+        "market_cap": 846561992602.431,
+        "total_volume": 18624791426.130833
+    },
+    {
+        "symbol": "btc",
+        "name": "Bitcoin",
+        "date": "02-02-2024",
+        "current_price": 43069.043420936796,
+        "market_cap": 844585195327.6586,
+        "total_volume": 22443682768.722225
+    },
+    {
+        "symbol": "btc",
+        "name": "Bitcoin",
+        "date": "01-02-2024",
+        "current_price": 42583.26354663417,
+        "market_cap": 835421372330.6442,
+        "total_volume": 22197944957.07849
+    },
+    {
+        "symbol": "btc",
+        "name": "Bitcoin",
+        "date": "31-01-2024",
+        "current_price": 42892.03453014447,
+        "market_cap": 839294111912.5715,
+        "total_volume": 24526664209.358597
+    },
+    {
+        "symbol": "btc",
+        "name": "Bitcoin",
+        "date": "30-01-2024",
+        "current_price": 43267.60927638767,
+        "market_cap": 849198976216.4734,
+        "total_volume": 20680322267.003654
+    },
+    {
+        "symbol": "btc",
+        "name": "Bitcoin",
+        "date": "29-01-2024",
+        "current_price": 42026.57856232145,
+        "market_cap": 824240091063.3245,
+        "total_volume": 13669905344.783924
+    },
+    {
+        "symbol": "btc",
+        "name": "Bitcoin",
+        "date": "28-01-2024",
+        "current_price": 42119.61049464309,
+        "market_cap": 826254540126.2368,
+        "total_volume": 10694258830.371908
+    },
+    {
+        "symbol": "btc",
+        "name": "Bitcoin",
+        "date": "27-01-2024",
+        "current_price": 41862.9356109399,
+        "market_cap": 820989861818.084,
+        "total_volume": 22681602408.52447
+    },
+    {
+        "symbol": "btc",
+        "name": "Bitcoin",
+        "date": "26-01-2024",
+        "current_price": 39938.28644155878,
+        "market_cap": 783180536824.566,
+        "total_volume": 13376924612.77818
+    },
+    {
+        "symbol": "btc",
+        "name": "Bitcoin",
+        "date": "25-01-2024",
+        "current_price": 40123.67105847147,
+        "market_cap": 786928905377.1826,
+        "total_volume": 22217129215.385582
+    },
+    {
+        "symbol": "btc",
+        "name": "Bitcoin",
+        "date": "24-01-2024",
+        "current_price": 39833.45410501688,
+        "market_cap": 779133357029.7626,
+        "total_volume": 29683327703.0343
+    },
+    {
+        "symbol": "btc",
+        "name": "Bitcoin",
+        "date": "23-01-2024",
+        "current_price": 39504.73005758438,
+        "market_cap": 775020895102.2928,
+        "total_volume": 31202848830.101707
+    },
+    {
+        "symbol": "btc",
+        "name": "Bitcoin",
+        "date": "22-01-2024",
+        "current_price": 41541.89945706261,
+        "market_cap": 814709364023.4832,
+        "total_volume": 8032696833.695371
+    },
+    {
+        "symbol": "btc",
+        "name": "Bitcoin",
+        "date": "21-01-2024",
+        "current_price": 41626.10711003664,
+        "market_cap": 817217622403.9753,
+        "total_volume": 9533488489.00503
+    },
+    {
+        "symbol": "btc",
+        "name": "Bitcoin",
+        "date": "20-01-2024",
+        "current_price": 41600.94093254464,
+        "market_cap": 815241536115.3193,
+        "total_volume": 24407872954.726807
+    },
+    {
+        "symbol": "btc",
+        "name": "Bitcoin",
+        "date": "19-01-2024",
+        "current_price": 41261.39479801012,
+        "market_cap": 808845819110.2808,
+        "total_volume": 25160430945.289833
+    },
+    {
+        "symbol": "btc",
+        "name": "Bitcoin",
+        "date": "18-01-2024",
+        "current_price": 42713.859186938986,
+        "market_cap": 836987995502.6503,
+        "total_volume": 21299064875.187115
+    },
+    {
+        "symbol": "btc",
+        "name": "Bitcoin",
+        "date": "17-01-2024",
+        "current_price": 43148.00164342693,
+        "market_cap": 845770850849.578,
+        "total_volume": 22023116042.275295
+    },
+    {
+        "symbol": "btc",
+        "name": "Bitcoin",
+        "date": "16-01-2024",
+        "current_price": 42587.336038354406,
+        "market_cap": 835225973285.8562,
+        "total_volume": 22634527323.56315
+    },
+    {
+        "symbol": "btc",
+        "name": "Bitcoin",
+        "date": "15-01-2024",
+        "current_price": 41800.93282193406,
+        "market_cap": 822907066751.3778,
+        "total_volume": 16968959097.076523
+    },
+    {
+        "symbol": "btc",
+        "name": "Bitcoin",
+        "date": "14-01-2024",
+        "current_price": 42848.47451640749,
+        "market_cap": 839198740717.084,
+        "total_volume": 19424747840.478386
+    },
+    {
+        "symbol": "btc",
+        "name": "Bitcoin",
+        "date": "13-01-2024",
+        "current_price": 42893.92960550481,
+        "market_cap": 838383512176.7352,
+        "total_volume": 45913301456.05085
+    },
+    {
+        "symbol": "btc",
+        "name": "Bitcoin",
+        "date": "12-01-2024",
+        "current_price": 46314.355541602694,
+        "market_cap": 909846384596.2129,
+        "total_volume": 49198128806.306175
+    },
+    {
+        "symbol": "btc",
+        "name": "Bitcoin",
+        "date": "11-01-2024",
+        "current_price": 46632.31314804979,
+        "market_cap": 915259343942.0361,
+        "total_volume": 52030057180.57072
+    },
+    {
+        "symbol": "btc",
+        "name": "Bitcoin",
+        "date": "10-01-2024",
+        "current_price": 46105.94607828697,
+        "market_cap": 902166917320.3264,
+        "total_volume": 39887918405.77868
+    },
+    {
+        "symbol": "btc",
+        "name": "Bitcoin",
+        "date": "09-01-2024",
+        "current_price": 46936.185561217506,
+        "market_cap": 919666641903.4098,
+        "total_volume": 40821502383.50064
+    }
+]

@@ -1,4 +1,6 @@
 import pandas as pd
+from datetime import datetime, timedelta
+import time
 
 # Replace 'your_file.csv' with the path to your CSV file
 file_path = 'cleaned_crypto_data.csv'
@@ -8,6 +10,10 @@ file_path2 = 'cleaned_stock_data.csv'
 df = pd.read_csv(file_path)
 df2 = pd.read_csv(file_path2)
 
+"""
+Can adjust as needed, just make sure to reset at the end of the script
+as to not affect anything globally
+"""
 # Set options to display everything
 # pd.set_option('display.max_rows', None)        # Show all rows
 # pd.set_option('display.max_columns', None)     # Show all columns
@@ -16,18 +22,16 @@ df2 = pd.read_csv(file_path2)
 
 pd.set_option('display.float_format', '{:.6f}'.format)  # Show 6 decimal places
 
+time = datetime.today()
+
 # Print the DataFrame
-print("Cryptocurrency Current Prices:")
+print("------------------------------------------------------------------")
+print("Values below accurate as of", time)
+print("------------------------------------------------------------------")
+print("Bitcoin Historical Prices (1 year):")
 print(df)
 print("------------------------------------------------------------------")
-print("")
-
-print("Stock Historical Prices (SPY and BAR):")
+print("Stock Historical Prices (S&P):")
 print(df2)
 print("------------------------------------------------------------------")
-
-# Reset options (optional if you don't want to keep these settings globally)
-# pd.reset_option('display.max_rows')
-# pd.reset_option('display.max_columns')
-# pd.reset_option('display.width')
-# pd.reset_option('display.max_colwidth')
+print("")

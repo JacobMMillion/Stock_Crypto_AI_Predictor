@@ -7,7 +7,7 @@ Clean ingested stock data, write out to cleaned_stock_data.csv
 """
 
 # Load the stock data
-stock_data = ""
+stock_data = {}
 
 try:
     with open('stock_historical_data.json', 'r') as file:
@@ -17,28 +17,30 @@ except FileNotFoundError:
 except json.JSONDecodeError:
     print("Invalid JSON format for stock data!")
 
-# Prepare dictionary to store data
-stocks_data = {}
+# Prepare list to store data
+data_list = []
 
 # Process stock data
 for symbol, info in stock_data.items():
+    meta_data = info.get('Meta Data', {})
     time_series = info.get('Time Series (Daily)', {})
-    stock_columns = {}
 
-    for date, vals in time_series.items():
-        stock_columns[f'{date}_open'] = float(vals.get('1. open', 0))
-        stock_columns[f'{date}_high'] = float(vals.get('2. high', 0))
-        stock_columns[f'{date}_low'] = float(vals.get('3. low', 0))
-        stock_columns[f'{date}_close'] = float(vals.get('4. close', 0))
-        stock_columns[f'{date}_volume'] = int(vals.get('5. volume', 0))
-
-    stocks_data[symbol] = stock_columns
+    for date, values in time_series.items():
+        data_list.append({
+            'symbol': symbol,
+            'date': date,
+            'open': float(values.get('1. open', 0)),
+            'high': float(values.get('2. high', 0)),
+            'low': float(values.get('3. low', 0)),
+            'close': float(values.get('4. close', 0)),
+            'volume': int(values.get('5. volume', 0))
+        })
 
 # Convert to DataFrame
-stock_df = pd.DataFrame.from_dict(stocks_data, orient='index')
+stock_df = pd.DataFrame(data_list)
 
 # Save cleaned stock data to CSV
 file_name = 'cleaned_stock_data.csv'
-stock_df.to_csv(file_name, index=True)
+stock_df.to_csv(file_name, index=False)
 
 print(f"Stock data cleaned and written to {file_name}!")

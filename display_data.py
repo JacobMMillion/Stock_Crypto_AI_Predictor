@@ -3,8 +3,8 @@ from datetime import datetime, timedelta
 import time
 
 # Replace 'your_file.csv' with the path to your CSV file
-file_path = 'cleaned_crypto_data.csv'
-file_path2 = 'cleaned_stock_data.csv'
+file_path = 'labeled_crypto_data.csv'
+file_path2 = 'labeled_stock_data.csv'
 
 # Read the CSV file
 df = pd.read_csv(file_path)

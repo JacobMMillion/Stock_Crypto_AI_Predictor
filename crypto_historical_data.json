@@ -2,6 +2,14 @@
     {
         "symbol": "btc",
         "name": "Bitcoin",
+        "date": "09-01-2025",
+        "current_price": 95016.71440989176,
+        "market_cap": 1885313354913.7239,
+        "total_volume": 65790469838.34392
+    },
+    {
+        "symbol": "btc",
+        "name": "Bitcoin",
         "date": "08-01-2025",
         "current_price": 96952.09886774956,
         "market_cap": 1919133187081.3127,
